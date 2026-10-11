@@ -49,7 +49,7 @@ const slides: Slide[] = [
   {
     label: "Pathway programmes",
     title: "Finish school or bridge the gap to a degree.",
-    body: "Grade 10 and 12 completion, GED, foundation, diplomas, UK OTHM diplomas, degree top-up and pre-master's routes.",
+    body: "Grade 10 and 12 completion, GED, foundation, diplomas, UK diplomas, degree top-up and pre-master's routes.",
     image: "library",
     primary: { href: "/pathway-programs", label: "Explore pathways" },
     secondary: { href: "/pathway-programs#inquiry", label: "Check my eligibility" },

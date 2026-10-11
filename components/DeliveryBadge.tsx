@@ -5,7 +5,7 @@ const styles: Record<Delivery, string> = {
   partner: "bg-ink text-white",
   blended: "bg-mist text-ink ring-1 ring-sky/50",
   onsite: "bg-white text-ink ring-1 ring-ink/25",
-  othm: "bg-sky text-ink",
+  ukdiploma: "bg-sky text-ink",
 };
 
 const dots: Record<Delivery, string> = {
@@ -13,7 +13,7 @@ const dots: Record<Delivery, string> = {
   partner: "bg-sky",
   blended: "bg-sky-deep",
   onsite: "bg-ink",
-  othm: "bg-ink",
+  ukdiploma: "bg-ink",
 };
 
 export default function DeliveryBadge({ delivery }: { delivery: Delivery }) {

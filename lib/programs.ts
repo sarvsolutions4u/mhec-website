@@ -9,7 +9,7 @@ import type { PhotoKey } from "./media";
 import catalogue from "./data/online-programs.json";
 import othmData from "./data/othm-diplomas.json";
 
-export type Delivery = "online" | "partner" | "blended" | "onsite" | "othm";
+export type Delivery = "online" | "partner" | "blended" | "onsite" | "ukdiploma";
 
 export const deliveryLabels: Record<Delivery, { label: string; detail: string }> = {
   online: {
@@ -28,9 +28,9 @@ export const deliveryLabels: Record<Delivery, { label: string; detail: string }>
     label: "At your workplace",
     detail: "Delivered by MHEC trainers at your premises in Oman.",
   },
-  othm: {
-    label: "UK diploma (OTHM)",
-    detail: "Awarded by OTHM, an Ofqual-regulated UK awarding organisation; studied online with MHEC support.",
+  ukdiploma: {
+    label: "UK diploma",
+    detail: "Awarded by an Ofqual-regulated UK awarding body such as OTHM or Qualifi; studied online with MHEC support.",
   },
 };
 
@@ -308,15 +308,15 @@ export const pathways: Pathway[] = [
     skills: ["excel-mastery", "digital-marketing", "business-communication"],
   },
   {
-    slug: "othm-diplomas",
-    title: "OTHM UK diplomas (Level 3 to Level 7)",
+    slug: "uk-diplomas",
+    title: "UK diplomas (Level 3 to Level 7)",
     stage: "Bridge the gap",
-    delivery: "othm",
+    delivery: "ukdiploma",
     forWho: "School leavers, diploma seekers and working managers who want a UK-regulated qualification with a route to a UK degree or MBA.",
-    body: "Ofqual-regulated UK diplomas in business, IT and leadership. Levels 3 to 5 lead into UK bachelor's degrees; Level 7 leads to an MBA top-up.",
+    body: "Ofqual-regulated UK diplomas from awarding bodies such as OTHM and Qualifi, in business, IT, leadership and more. Levels 3 to 5 lead into UK bachelor's degrees; Level 7 leads to an MBA top-up.",
     leadsTo: "UK bachelor's top-up or MBA top-up",
     overview: [
-      "OTHM is a UK awarding organisation regulated by Ofqual, the qualifications regulator for England. Its diplomas are built in credits, so each level can count towards the next stage of a UK degree.",
+      "UK diplomas are awarded by UK awarding organisations such as OTHM and Qualifi, both regulated by Ofqual, the qualifications regulator for England. The diplomas are built in credits, so each level can count towards the next stage of a UK degree.",
       "A Level 3 diploma can lead to the first year of a bachelor's degree, Level 4 to the second year, and a Level 5 extended diploma to a final-year top-up. The Level 7 diploma is at master's level and leads to an MBA top-up with advanced standing. Each university assesses applicants individually.",
     ],
     eligibility: [
@@ -327,9 +327,9 @@ export const pathways: Pathway[] = [
     ],
     structure: [
       { title: "Choose your level", body: "We match the diploma level to your current qualification and the degree you want." },
-      { title: "Register", body: "Complete enrolment and registration for your chosen OTHM diploma." },
+      { title: "Register", body: "Complete enrolment and registration with the awarding body for your chosen diploma." },
       { title: "Study the units", body: "Work through the units online with MHEC tutor support and submit assignments." },
-      { title: "Achieve your diploma", body: "Receive your OTHM diploma once all units are passed." },
+      { title: "Achieve your diploma", body: "Receive your UK diploma once all units are passed." },
       { title: "Top up to a degree", body: "Apply for a UK bachelor's top-up or MBA top-up — we help with the university application." },
     ],
     duration: "Each 120-credit level is 1,200 hours of total qualification time; your study plan sets the pace.",
@@ -482,7 +482,7 @@ export type CourseCategory = (typeof courseCategories)[number];
 
 export const courses = catalogue.courses as Course[];
 
-/** OTHM UK diplomas — shown on the Pathway Programmes → OTHM page (lib/data/othm-diplomas.json). */
+/** Example UK diplomas (OTHM) — shown on the Pathway Programmes → UK diplomas page (lib/data/othm-diplomas.json). Add Qualifi diplomas to the same file. */
 export type OthmDiploma = {
   slug: string;
   title: string;
@@ -568,7 +568,7 @@ export const planner: {
   {
     key: "complete",
     goal: "Complete or upgrade a degree",
-    qualification: { title: "Degree top-up or OTHM Level 5 diploma", href: "/pathway-programs/othm-diplomas", note: "Use your diploma or earlier credits to finish a UK bachelor's degree faster." },
+    qualification: { title: "Degree top-up or UK Level 5 diploma", href: "/pathway-programs/uk-diplomas", note: "Use your diploma or earlier credits to finish a UK bachelor's degree faster." },
     skills: [
       { slug: "power-bi", why: "Reporting skills managers value" },
       { slug: "project-management", why: "Lead projects at work with confidence" },
@@ -578,7 +578,7 @@ export const planner: {
   {
     key: "master",
     goal: "Move up to a master's",
-    qualification: { title: "OTHM Level 7 diploma or postgraduate admission", href: "/pathway-programs/othm-diplomas#othm-level-7-diploma-strategic-management-leadership", note: "A master's-level UK diploma that leads to an MBA top-up." },
+    qualification: { title: "UK Level 7 diploma or postgraduate admission", href: "/pathway-programs/uk-diplomas#othm-level-7-diploma-strategic-management-leadership", note: "A master's-level UK diploma that leads to an MBA top-up." },
     skills: [
       { slug: "ielts", why: "Reach the postgraduate English score" },
       { slug: "power-bi", why: "Data skills for research and management" },
@@ -695,8 +695,8 @@ export const faqs: Record<SectionKey | "general", { q: string; a: string }[]> = 
       a: "Often, yes. Through top-up or lateral entry routes, recognised diplomas can let you join a degree in a later year.",
     },
     {
-      q: "What are OTHM diplomas?",
-      a: "OTHM is a UK awarding organisation regulated by Ofqual. Its Level 3 to Level 7 diplomas carry credits that can lead into UK bachelor's degree years, a final-year top-up or an MBA top-up. Each university assesses applicants individually.",
+      q: "What are UK diplomas?",
+      a: "UK diplomas are Ofqual-regulated qualifications from UK awarding bodies such as OTHM and Qualifi. Level 3 to Level 7 diplomas carry credits that can lead into UK bachelor's degree years, a final-year top-up or an MBA top-up. Each university assesses applicants individually.",
     },
   ],
   corporate: [

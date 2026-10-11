@@ -13,7 +13,7 @@ Built with Next.js, ready to host on **GitHub + Vercel**.
 - University Admissions: study options, destinations, levels, process, documents checklist, skills to add
 - Pathway Programmes: overview plus a full page for each of the 7 routes (eligibility, how it works, outcomes, skills to add)
 - Online Programmes: 69 programmes in 10 subject areas (shown as "50+"), a searchable finder, a page per subject area and a page per programme with syllabus, audience and FAQs
-- UK OTHM diplomas (Level 3, 4, 5 and 7) under Pathway Programmes, with units, entry requirements, Ofqual numbers and university progression
+- UK diplomas (OTHM examples at Level 3, 4, 5 and 7; Qualifi can be added) under Pathway Programmes, with units, entry requirements, Ofqual numbers and university progression
 - Corporate Training, About, Contact, Blog (with editor), Privacy
 
 ---
@@ -112,7 +112,7 @@ Email alone works, but a database means no inquiry is ever lost in an inbox and 
 | Name, phone, email, address, opening hours, social links, 25 years / 10,000+ stats | `lib/site.ts` |
 | Pathway routes, admissions, corporate, planner, FAQs, headline counts ("50+", "5+") | `lib/programs.ts` |
 | The 69 online programmes (titles, summaries, syllabus, FAQs) | `lib/data/online-programs.json` |
-| OTHM UK diplomas (units, entry, progression) | `lib/data/othm-diplomas.json` |
+| UK diplomas — OTHM examples, add Qualifi ones here (units, entry, progression) | `lib/data/othm-diplomas.json` |
 | Colours and fonts | `app/globals.css` (top of file) |
 | Logo | `public/brand/` |
 | Banner and section photos | `lib/media.ts` (see below) |

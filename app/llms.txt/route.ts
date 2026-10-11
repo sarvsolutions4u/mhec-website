@@ -26,8 +26,8 @@ ${partnerUniversities.length ? `## University partners\n${partnerUniversities.ma
 ## Pathway programmes
 ${pathways.map((p) => `- [${p.title}](${absoluteUrl(`/pathway-programs/${p.slug}`)}): ${p.body} Leads to: ${p.leadsTo}.`).join("\n")}
 
-## OTHM UK diplomas (part of Pathway Programmes)
-${othmDiplomas.map((d) => `- [${d.title}](${absoluteUrl(`/pathway-programs/othm-diplomas#${d.slug}`)}): ${d.summary} ${d.credits}, Ofqual ${d.qualificationNumber}.`).join("\n")}
+## UK diplomas (part of Pathway Programmes; awarding bodies such as OTHM and Qualifi, both Ofqual-regulated)
+${othmDiplomas.map((d) => `- [${d.title}](${absoluteUrl(`/pathway-programs/uk-diplomas#${d.slug}`)}): ${d.summary} ${d.credits}, Ofqual ${d.qualificationNumber}.`).join("\n")}
 
 ## Online programmes (50+, delivered online through MHEC)
 ${courseCategories.map((cat) => `### ${cat}\n` + courses.filter((c) => c.category === cat).map((c) => `- [${c.title}](${absoluteUrl(`/online-programs/${c.slug}`)}): ${c.summary} ${c.kind === "UK diploma" ? c.credits : `Duration: ${c.duration}`}.`).join("\n")).join("\n\n")}

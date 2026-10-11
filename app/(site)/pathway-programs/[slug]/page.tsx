@@ -141,11 +141,11 @@ export default async function PathwayPage({ params }: Props) {
         </div>
       </section>
 
-      {p.slug === "othm-diplomas" && (
+      {p.slug === "uk-diplomas" && (
         <section className="border-t border-line bg-mist py-20">
           <div className="container-x">
-            <h2 className="text-h2">OTHM diplomas available</h2>
-            <p className="mt-3 max-w-[62ch] text-stone">Select a diploma to see its units, entry requirements and progression. Other OTHM subjects can be arranged on request.</p>
+            <h2 className="text-h2">Example UK diplomas</h2>
+            <p className="mt-3 max-w-[62ch] text-stone">These OTHM diplomas show how the levels work. Equivalent Qualifi diplomas and other subjects are available — ask an advisor. Select a diploma for its units, entry requirements and progression.</p>
             <div className="mt-8 overflow-x-auto rounded-panel bg-white ring-1 ring-line">
               <table className="w-full min-w-[720px] text-left">
                 <thead className="bg-ink text-white">
@@ -207,7 +207,7 @@ export default async function PathwayPage({ params }: Props) {
                 </details>
               ))}
             </div>
-            <p className="mt-4 text-sm text-stone">Awarded by OTHM, a UK awarding organisation regulated by Ofqual. Each university assesses applicants individually.</p>
+            <p className="mt-4 text-sm text-stone">The diplomas above are awarded by OTHM; Qualifi diplomas are awarded by Qualifi. Both are regulated by Ofqual. Each university assesses applicants individually.</p>
           </div>
         </section>
       )}

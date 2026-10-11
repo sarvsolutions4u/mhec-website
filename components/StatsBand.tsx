@@ -7,7 +7,7 @@ export default function StatsBand({ tone = "light" }: { tone?: "light" | "dark" 
     { value: site.stats.years, suffix: "+", label: "Years serving students in Oman" },
     { value: site.stats.students, suffix: "+", label: "Students guided to their next qualification" },
     { value: headlineCounts.onlineProgrammes.value, suffix: headlineCounts.onlineProgrammes.suffix, label: "Online skill and professional programmes" },
-    { value: headlineCounts.pathwayRoutes.value, suffix: headlineCounts.pathwayRoutes.suffix, label: "Pathway routes, including UK OTHM diplomas" },
+    { value: headlineCounts.pathwayRoutes.value, suffix: headlineCounts.pathwayRoutes.suffix, label: "Pathway routes, including UK diplomas" },
   ];
   const dark = tone === "dark";
   return (

@@ -73,7 +73,7 @@ export default async function CoursePage({ params }: Props) {
         ]}
         aside={
           <div className="rounded-panel bg-white p-6 shadow-xl">
-            <DeliveryBadge delivery={isDiploma ? "othm" : "online"} />
+            <DeliveryBadge delivery={isDiploma ? "ukdiploma" : "online"} />
             <dl className="mt-5 grid grid-cols-2 gap-4">
               <div>
                 <dt className="text-sm text-stone">{isDiploma ? "Credits" : "Duration"}</dt>
