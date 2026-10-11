@@ -10,6 +10,8 @@ const nextConfig: NextConfig = {
       { source: "/open-school", destination: "/pathway-programs#school-completion", permanent: true },
       { source: "/open-school/", destination: "/pathway-programs#school-completion", permanent: true },
       { source: "/contact-us", destination: "/contact", permanent: true },
+      { source: "/online-programs/category/uk-diplomas-othm", destination: "/pathway-programs/othm-diplomas", permanent: true },
+      { source: "/online-programs/:slug(othm-.*)", destination: "/pathway-programs/othm-diplomas#:slug", permanent: true },
       { source: "/contact-us/", destination: "/contact", permanent: true },
     ];
   },

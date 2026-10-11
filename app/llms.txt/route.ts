@@ -1,5 +1,5 @@
 import { site, absoluteUrl } from "@/lib/site";
-import { sections, courses, pathways, partnerUniversities, faqs, courseCategories } from "@/lib/programs";
+import { sections, courses, pathways, partnerUniversities, faqs, courseCategories, othmDiplomas } from "@/lib/programs";
 import { getAllPosts } from "@/lib/blog";
 
 // llms.txt — a plain-language summary for AI assistants and answer engines (GEO).
@@ -25,6 +25,9 @@ ${sections.map((s) => `- [${s.title}](${absoluteUrl(s.href)}): ${s.summary}`).jo
 ${partnerUniversities.length ? `## University partners\n${partnerUniversities.map((u) => `- ${u.name} (${u.country}): ${u.note}`).join("\n")}\n` : ""}
 ## Pathway programmes
 ${pathways.map((p) => `- [${p.title}](${absoluteUrl(`/pathway-programs/${p.slug}`)}): ${p.body} Leads to: ${p.leadsTo}.`).join("\n")}
+
+## OTHM UK diplomas (part of Pathway Programmes)
+${othmDiplomas.map((d) => `- [${d.title}](${absoluteUrl(`/pathway-programs/othm-diplomas#${d.slug}`)}): ${d.summary} ${d.credits}, Ofqual ${d.qualificationNumber}.`).join("\n")}
 
 ## Online programmes (50+, delivered online through MHEC)
 ${courseCategories.map((cat) => `### ${cat}\n` + courses.filter((c) => c.category === cat).map((c) => `- [${c.title}](${absoluteUrl(`/online-programs/${c.slug}`)}): ${c.summary} ${c.kind === "UK diploma" ? c.credits : `Duration: ${c.duration}`}.`).join("\n")).join("\n\n")}

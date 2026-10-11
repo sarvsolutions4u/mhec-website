@@ -48,7 +48,7 @@ export default function Footer() {
           </ul>
           <h2 className="mt-8 text-white text-base font-semibold font-sans tracking-normal">Popular online courses</h2>
           <ul className="mt-4 space-y-2.5">
-            {["acca", "excel-with-ai", "power-bi", "ielts", "othm-level-5-extended-diploma-business-management"].map((s) => courses.find((c) => c.slug === s)!).map((c) => (
+            {["acca", "excel-with-ai", "power-bi", "ielts", "digital-marketing"].map((s) => courses.find((c) => c.slug === s)!).map((c) => (
               <li key={c.slug}>
                 <Link href={`/online-programs/${c.slug}`} className="hover:text-white">
                   {c.title}

@@ -15,9 +15,9 @@ import { courseListSchema } from "@/lib/schema";
 const s = sections[3];
 
 export const metadata: Metadata = {
-  title: "50+ Online Programmes — ACCA, Excel, Power BI, IELTS, BIM, OTHM Diplomas & More",
+  title: "50+ Online Programmes — ACCA, Excel, Power BI, IELTS, BIM, Digital Marketing & More",
   description:
-    "Over 50 online skill and professional programmes taught live through MHEC: AI, accounting, data analytics, digital marketing, exam preparation, languages, soft skills, management, BIM & CAD and UK OTHM diplomas.",
+    "Over 50 online skill and professional programmes taught live through MHEC: AI, accounting, data analytics, digital marketing, exam preparation, languages, soft skills, management and BIM & CAD.",
   alternates: { canonical: s.href },
   openGraph: { title: "Online Programmes | MHEC Muscat", url: s.href },
 };
@@ -27,9 +27,8 @@ export default function Page() {
     { label: "Online skill and professional programmes", ...headlineCounts.onlineProgrammes },
     { label: "Subject areas", value: courseCategories.length, suffix: "" },
     { label: "Professional qualifications", value: courses.filter((c) => c.kind === "Professional qualification").length, suffix: "" },
-    { label: "UK OTHM diplomas", value: courses.filter((c) => c.kind === "UK diploma").length, suffix: "" },
+    { label: "Exam preparation courses", value: courses.filter((c) => c.kind === "Exam preparation").length, suffix: "" },
   ];
-  const othm = courses.filter((c) => c.kind === "UK diploma");
 
   return (
     <>
@@ -63,7 +62,7 @@ export default function Page() {
         <div className="container-x">
           <div className="grid gap-6 lg:grid-cols-12 lg:items-end">
             <h2 className="text-h2 lg:col-span-6">Browse by subject</h2>
-            <p className="text-lg text-stone lg:col-span-6">Eleven subject areas, from AI and accounting to BIM and UK diplomas.</p>
+            <p className="text-lg text-stone lg:col-span-6">{courseCategories.length} subject areas, from AI and accounting to management and BIM.</p>
           </div>
           <ul className="mt-10 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
             {courseCategories.map((cat, i) => {
@@ -96,31 +95,6 @@ export default function Page() {
         </div>
       </section>
 
-      <section className="relative isolate overflow-hidden bg-ink text-white py-20">
-        <div className="absolute inset-0 -z-10 opacity-25"><Photo name="graduates" fill sizes="100vw" /></div>
-        <div className="absolute inset-0 -z-10 bg-gradient-to-r from-ink via-ink/90 to-ink/60" />
-        <div className="container-x grid gap-10 lg:grid-cols-12">
-          <div className="lg:col-span-5">
-            <DeliveryBadge delivery="othm" />
-            <h2 className="mt-4 text-h2">UK diplomas from OTHM</h2>
-            <p className="mt-4 text-lg text-white/75">
-              Ofqual-regulated UK qualifications from Level 3 to Level 7. Study online and use your credits to top up to a UK
-              bachelor&apos;s degree or an MBA.
-            </p>
-            <Link href="/pathway-programs/othm-diplomas" className="btn btn-primary mt-6">How OTHM pathways work</Link>
-          </div>
-          <ul className="lg:col-span-7 grid gap-3">
-            {othm.map((d) => (
-              <li key={d.slug}>
-                <Link href={`/online-programs/${d.slug}`} className="flex items-center justify-between gap-4 rounded-xl bg-white/5 px-5 py-4 ring-1 ring-white/15 hover:bg-white/10">
-                  <span className="font-semibold">{d.title}</span>
-                  <span className="shrink-0 text-sm text-white/60">{d.duration}</span>
-                </Link>
-              </li>
-            ))}
-          </ul>
-        </div>
-      </section>
 
       <section className="py-20">
         <div className="container-x grid gap-12 lg:grid-cols-12 lg:items-center">

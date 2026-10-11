@@ -71,7 +71,7 @@ export const nav: NavItem[] = [
   {
     label: "Online Programmes",
     href: "/online-programs",
-    intro: "50+ skill and professional programmes and UK OTHM diplomas, studied online.",
+    intro: "50+ skill and professional programmes, studied live online.",
     groups: [
       { heading: "Subject areas", links: courseCategories.slice(0, 4) },
       { heading: " ", links: courseCategories.slice(4, 8) },

@@ -25,7 +25,6 @@ const categoryPhoto: Record<string, PhotoKey> = {
   "Soft Skills & Leadership": "training",
   Management: "training",
   "BIM & CAD": "online",
-  "UK Diplomas (OTHM)": "graduates",
 };
 
 const Tick = () => (

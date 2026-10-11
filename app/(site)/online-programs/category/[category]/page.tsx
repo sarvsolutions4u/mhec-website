@@ -22,7 +22,6 @@ const photo: Record<CourseCategory, PhotoKey> = {
   "Soft Skills & Leadership": "training",
   Management: "training",
   "BIM & CAD": "online",
-  "UK Diplomas (OTHM)": "graduates",
 };
 
 const find = (slug: string) => courseCategories.find((c) => categorySlug(c) === slug);
@@ -56,7 +55,7 @@ export default async function CategoryPage({ params }: Props) {
       <JsonLd data={courseListSchema(list.map((c) => ({ name: c.title, path: `/online-programs/${c.slug}`, description: c.summary })))} />
       <PageHero
         image={photo[cat]}
-        title={cat === "UK Diplomas (OTHM)" ? "UK Diplomas (OTHM)" : `${cat} programmes`}
+        title={`${cat} programmes`}
         intro={categoryIntro[cat]}
         crumbs={[
           { name: "Online Programmes", path: "/online-programs" },
@@ -69,13 +68,6 @@ export default async function CategoryPage({ params }: Props) {
 
       <section id="list" className="scroll-mt-28 bg-mist/60 py-16">
         <div className="container-x">
-          {cat === "UK Diplomas (OTHM)" && (
-            <p className="mb-8 max-w-[70ch] text-stone">
-              OTHM is a UK awarding organisation regulated by Ofqual. Its diplomas carry credits that lead into UK bachelor&apos;s
-              degree years and MBA top-up programmes. See how the levels connect on the{" "}
-              <Link href="/pathway-programs/othm-diplomas" className="link">OTHM pathway page</Link>.
-            </p>
-          )}
           <ProgramExplorer category={cat} showFilters={false} showSearch={list.length > 8} />
         </div>
       </section>
@@ -98,8 +90,8 @@ export default async function CategoryPage({ params }: Props) {
       <section id="inquiry" className="scroll-mt-28 bg-mist py-20">
         <div className="container-x grid gap-10 lg:grid-cols-12">
           <div className="lg:col-span-5">
-            <h2 className="text-h2">Ask about {cat.toLowerCase().startsWith("uk") ? "a UK diploma" : `${cat} courses`}</h2>
-            <p className="mt-4 text-lg text-stone">We&apos;ll send batch dates, timings and fees, or a study plan for diplomas.</p>
+            <h2 className="text-h2">Ask about {cat} courses</h2>
+            <p className="mt-4 text-lg text-stone">We&apos;ll send batch dates, timings and fees.</p>
           </div>
           <div className="lg:col-span-7">
             <InquiryForm section="online" title="Ask an advisor" />

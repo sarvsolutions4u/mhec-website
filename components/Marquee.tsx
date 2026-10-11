@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { courses, pathways } from "@/lib/programs";
 
-const popular = ["acca", "cma", "excel-with-ai", "generative-ai", "power-bi", "data-analytics", "digital-marketing", "ielts", "pte", "spoken-english", "project-management", "autocad", "bim-coordinator", "othm-level-7-diploma-strategic-management-leadership"];
+const popular = ["acca", "cma", "excel-with-ai", "generative-ai", "power-bi", "data-analytics", "digital-marketing", "ielts", "pte", "spoken-english", "project-management", "autocad", "bim-coordinator", "sql"];
 
 /** A slow-moving ribbon of programme names. Pauses on hover; static for reduced motion. */
 export default function Marquee() {

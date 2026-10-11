@@ -65,7 +65,7 @@ const slides: Slide[] = [
   {
     label: "Online programmes",
     title: "Professional qualifications and job skills, live online.",
-    body: "50+ programmes — ACCA, Excel with AI, Power BI, IELTS, BIM, digital marketing and UK OTHM diplomas — studied online through MHEC.",
+    body: "50+ programmes — ACCA, Excel with AI, Power BI, IELTS, BIM, digital marketing and more — studied live online through MHEC.",
     image: "online",
     primary: { href: "/online-programs", label: "Browse online programmes" },
     secondary: { href: "/online-programs#inquiry", label: "Ask about batches" },

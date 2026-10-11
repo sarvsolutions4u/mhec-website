@@ -7,6 +7,7 @@
 
 import type { PhotoKey } from "./media";
 import catalogue from "./data/online-programs.json";
+import othmData from "./data/othm-diplomas.json";
 
 export type Delivery = "online" | "partner" | "blended" | "onsite" | "othm";
 
@@ -476,11 +477,26 @@ export const courseCategories = [
   "Soft Skills & Leadership",
   "Management",
   "BIM & CAD",
-  "UK Diplomas (OTHM)",
 ] as const;
 export type CourseCategory = (typeof courseCategories)[number];
 
 export const courses = catalogue.courses as Course[];
+
+/** OTHM UK diplomas — shown on the Pathway Programmes → OTHM page (lib/data/othm-diplomas.json). */
+export type OthmDiploma = {
+  slug: string;
+  title: string;
+  qualificationNumber: string;
+  credits: string;
+  tqt: string;
+  level: string;
+  summary: string;
+  entry: string[];
+  modules: string[];
+  progression: string[];
+  certificate: string;
+};
+export const othmDiplomas = othmData.diplomas as OthmDiploma[];
 
 export const categorySlug = (c: string) =>
   c.toLowerCase().replace(/&/g, "and").replace(/[()]/g, "").replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
@@ -496,7 +512,6 @@ export const categoryIntro: Record<CourseCategory, string> = {
   "Soft Skills & Leadership": "Public speaking, negotiation, time management, emotional intelligence and more.",
   Management: "Business management, HR, project management, marketing and supply chain skills for managers.",
   "BIM & CAD": "BIM, Revit, AutoCAD, Fusion 360, interior design and Primavera P6 for engineering and design professionals.",
-  "UK Diplomas (OTHM)": "Ofqual-regulated UK diplomas from Level 3 to Level 7, with progression to UK bachelor's top-up and MBA top-up programmes.",
 };
 
 /** Shown in counters. Real totals are higher; these are the rounded figures used in marketing. */
@@ -563,7 +578,7 @@ export const planner: {
   {
     key: "master",
     goal: "Move up to a master's",
-    qualification: { title: "OTHM Level 7 diploma or postgraduate admission", href: "/online-programs/othm-level-7-diploma-strategic-management-leadership", note: "A master's-level UK diploma that leads to an MBA top-up." },
+    qualification: { title: "OTHM Level 7 diploma or postgraduate admission", href: "/pathway-programs/othm-diplomas#othm-level-7-diploma-strategic-management-leadership", note: "A master's-level UK diploma that leads to an MBA top-up." },
     skills: [
       { slug: "ielts", why: "Reach the postgraduate English score" },
       { slug: "power-bi", why: "Data skills for research and management" },
@@ -679,6 +694,10 @@ export const faqs: Record<SectionKey | "general", { q: string; a: string }[]> = 
       q: "Can my diploma count towards a degree?",
       a: "Often, yes. Through top-up or lateral entry routes, recognised diplomas can let you join a degree in a later year.",
     },
+    {
+      q: "What are OTHM diplomas?",
+      a: "OTHM is a UK awarding organisation regulated by Ofqual. Its Level 3 to Level 7 diplomas carry credits that can lead into UK bachelor's degree years, a final-year top-up or an MBA top-up. Each university assesses applicants individually.",
+    },
   ],
   corporate: [
     {
@@ -706,10 +725,6 @@ export const faqs: Record<SectionKey | "general", { q: string; a: string }[]> = 
     {
       q: "Do I get a certificate?",
       a: "You receive an MHEC certificate of completion for our skill programmes. For professional qualifications and tests such as ACCA, CMA, IELTS and PTE, the qualification or score comes from the awarding body and we prepare you for their exams.",
-    },
-    {
-      q: "What are OTHM diplomas?",
-      a: "OTHM is a UK awarding organisation regulated by Ofqual. Its Level 3 to Level 7 diplomas carry credits that can lead into UK bachelor's degree years, a final-year top-up or an MBA top-up. Each university assesses applicants individually.",
     },
   ],
 };

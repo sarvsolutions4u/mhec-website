@@ -6,7 +6,7 @@ import DeliveryBadge from "@/components/DeliveryBadge";
 import InquiryForm from "@/components/InquiryForm";
 import JsonLd from "@/components/JsonLd";
 import Reveal from "@/components/Reveal";
-import { pathways, courses, deliveryLabels } from "@/lib/programs";
+import { pathways, courses, deliveryLabels, othmDiplomas } from "@/lib/programs";
 import { absoluteUrl, site, whatsappLink } from "@/lib/site";
 
 type Props = { params: Promise<{ slug: string }> };
@@ -34,7 +34,7 @@ export default async function PathwayPage({ params }: Props) {
   const p = pathways[idx];
   const next = pathways[idx + 1];
   const skillCourses = p.skills.map((sl) => courses.find((c) => c.slug === sl)!).filter(Boolean);
-  const othm = courses.filter((c) => c.category === "UK Diplomas (OTHM)");
+  const othm = othmDiplomas;
 
   return (
     <>
@@ -145,7 +145,7 @@ export default async function PathwayPage({ params }: Props) {
         <section className="border-t border-line bg-mist py-20">
           <div className="container-x">
             <h2 className="text-h2">OTHM diplomas available</h2>
-            <p className="mt-3 max-w-[62ch] text-stone">Select a diploma for its units, entry requirements and progression. Other OTHM subjects can be arranged on request.</p>
+            <p className="mt-3 max-w-[62ch] text-stone">Select a diploma to see its units, entry requirements and progression. Other OTHM subjects can be arranged on request.</p>
             <div className="mt-8 overflow-x-auto rounded-panel bg-white ring-1 ring-line">
               <table className="w-full min-w-[720px] text-left">
                 <thead className="bg-ink text-white">
@@ -159,7 +159,7 @@ export default async function PathwayPage({ params }: Props) {
                   {othm.map((d) => (
                     <tr key={d.slug}>
                       <th scope="row" className="p-4">
-                        <Link href={`/online-programs/${d.slug}`} className="link">{d.title}</Link>
+                        <a href={`#${d.slug}`} className="link">{d.title}</a>
                         <span className="block text-sm font-normal text-stone">Ofqual number {d.qualificationNumber}</span>
                       </th>
                       <td className="p-4">{d.credits}</td>
@@ -169,6 +169,45 @@ export default async function PathwayPage({ params }: Props) {
                 </tbody>
               </table>
             </div>
+
+            <div className="mt-12 space-y-4">
+              {othm.map((d) => (
+                <details key={d.slug} id={d.slug} className="group scroll-mt-28 rounded-panel bg-white ring-1 ring-line open:shadow-[0_20px_40px_-28px_rgba(35,31,32,0.35)]">
+                  <summary className="flex cursor-pointer list-none items-start justify-between gap-6 p-6 [&::-webkit-details-marker]:hidden">
+                    <span>
+                      <span className="block font-display text-xl font-semibold">{d.title}</span>
+                      <span className="mt-1 block text-stone">{d.summary}</span>
+                      <span className="mt-2 block text-sm text-stone">{d.credits} · Ofqual {d.qualificationNumber}</span>
+                    </span>
+                    <span aria-hidden="true" className="mt-1 grid h-8 w-8 shrink-0 place-items-center rounded-full bg-mist text-sky-deep transition-transform group-open:rotate-45">
+                      <svg width="12" height="12" viewBox="0 0 12 12"><path d="M6 1v10M1 6h10" stroke="currentColor" strokeWidth="2" strokeLinecap="round" /></svg>
+                    </span>
+                  </summary>
+                  <div className="grid gap-8 border-t border-line p-6 md:grid-cols-3">
+                    <div>
+                      <h3 className="font-display text-lg font-semibold">Units</h3>
+                      <ol className="mt-2 list-decimal space-y-1 pl-5 text-[0.95rem]">
+                        {d.modules.map((m) => <li key={m}>{m}</li>)}
+                      </ol>
+                    </div>
+                    <div>
+                      <h3 className="font-display text-lg font-semibold">Entry requirements</h3>
+                      <ul className="mt-2 list-disc space-y-1 pl-5 text-[0.95rem]">
+                        {d.entry.map((e) => <li key={e}>{e}</li>)}
+                      </ul>
+                    </div>
+                    <div>
+                      <h3 className="font-display text-lg font-semibold">Where it leads</h3>
+                      <ul className="mt-2 list-disc space-y-1 pl-5 text-[0.95rem]">
+                        {d.progression.map((e) => <li key={e}>{e}</li>)}
+                      </ul>
+                      <p className="mt-3 text-sm text-stone">{d.tqt}</p>
+                    </div>
+                  </div>
+                </details>
+              ))}
+            </div>
+            <p className="mt-4 text-sm text-stone">Awarded by OTHM, a UK awarding organisation regulated by Ofqual. Each university assesses applicants individually.</p>
           </div>
         </section>
       )}
