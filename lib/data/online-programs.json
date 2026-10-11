@@ -1,0 +1,2842 @@
+{
+  "categories": [
+    "AI",
+    "Accounting & Finance",
+    "Business & Data Analytics",
+    "Digital Marketing & Design",
+    "Exam Preparation",
+    "Languages & Communication",
+    "Kids Programme",
+    "Soft Skills & Leadership",
+    "Management",
+    "BIM & CAD",
+    "UK Diplomas (OTHM)"
+  ],
+  "courses": [
+    {
+      "slug": "excel-with-ai",
+      "title": "Excel with AI (Copilot & ChatGPT)",
+      "category": "AI",
+      "kind": "Skill programme",
+      "level": "Beginner",
+      "summary": "Go from Excel basics to AI-powered analysis, dashboards and automation using Microsoft Copilot and ChatGPT.",
+      "duration": "2 months",
+      "audience": [
+        "Students & Graduates — build strong Excel skills for academic and career success",
+        "Business Professionals — enhance productivity with AI-powered Excel tools",
+        "Data Analysts & Financial Experts — advanced functions, automation, and visualization",
+        "Entrepreneurs & Small Business Owners — streamline financial management",
+        "Administrative & HR Professionals — improve data organization and workflow automation"
+      ],
+      "outcomes": [
+        "Enable Copilot Pro for Microsoft 365 and learn its features and limitations",
+        "Introduction to AI and ChatGPT for Excel",
+        "Features and uses of AI in Excel",
+        "Exploring Microsoft Co-pilot",
+        "Getting started with Excel ChatGPT integration",
+        "Advanced formula generation with ChatGPT",
+        "Data cleaning and transformation with ChatGPT",
+        "Data analysis with AI assistance"
+      ],
+      "modules": [
+        "Learners navigate the ChatGPT for Excel interface with ease to complete tasks quickly",
+        "Understanding features and capabilities: automating tasks, analyzing data",
+        "Importing and exporting data using ChatGPT for Excel across various formats",
+        "Enable Copilot Pro for Microsoft 365 — strengths and limitations",
+        "Introduction of AI and ChatGPT",
+        "Features and uses of AI in Excel",
+        "Exploring Microsoft Co-pilot",
+        "Advanced formula generation with ChatGPT",
+        "Data Cleaning and Transformation with ChatGPT",
+        "Data Analysis with ChatGPT",
+        "Creating Dashboards using AI"
+      ],
+      "certificate": "MHEC certificate of completion.",
+      "faqs": [
+        {
+          "q": "Is a Microsoft 365 subscription required for this course?",
+          "a": "For Copilot features, a Microsoft 365 subscription is needed. However, most of the ChatGPT integration works with any Excel version."
+        },
+        {
+          "q": "Is this course different from the Excel Mastery course?",
+          "a": "Yes, this course specifically focuses on AI-powered Excel using Copilot and ChatGPT, while the Excel Mastery course covers comprehensive Excel from basics to advanced analytics."
+        }
+      ]
+    },
+    {
+      "slug": "python-with-ai",
+      "title": "Python with AI",
+      "category": "AI",
+      "kind": "Skill programme",
+      "level": "Beginner",
+      "summary": "Learn Python from the basics and use it with AI models to automate work and build simple applications.",
+      "duration": "2 months",
+      "audience": [
+        "Beginners who want to start programming",
+        "Professionals who want to automate repetitive work",
+        "Graduates moving towards data and AI roles"
+      ],
+      "outcomes": [
+        "Write Python programs with confidence",
+        "Work with files, spreadsheets and data",
+        "Call AI models from Python",
+        "Build a small automation project of your own"
+      ],
+      "modules": [
+        "Python setup and fundamentals",
+        "Data types, loops and functions",
+        "Files, spreadsheets and data with pandas",
+        "Working with APIs",
+        "Building with AI models",
+        "Final project: automate a real task"
+      ],
+      "certificate": "MHEC certificate of completion.",
+      "faqs": []
+    },
+    {
+      "slug": "generative-ai",
+      "title": "Generative AI for Professionals",
+      "category": "AI",
+      "kind": "Skill programme",
+      "level": "Beginner",
+      "summary": "Use ChatGPT, Copilot and other generative AI tools safely and effectively for writing, research, analysis and everyday work.",
+      "duration": "1 month",
+      "audience": [
+        "Office and administrative staff",
+        "Managers and team leaders",
+        "Marketing, HR and finance professionals",
+        "Students preparing for work"
+      ],
+      "outcomes": [
+        "Write effective prompts for different tasks",
+        "Draft, summarise and edit documents faster",
+        "Analyse information and data with AI assistance",
+        "Use AI responsibly and protect sensitive information"
+      ],
+      "modules": [
+        "How generative AI works and where it helps",
+        "Prompt writing fundamentals",
+        "AI for writing, email and reports",
+        "AI for research and summarising",
+        "AI for data analysis and spreadsheets",
+        "Images and presentations with AI",
+        "Responsible use, accuracy and data privacy"
+      ],
+      "certificate": "MHEC certificate of completion.",
+      "faqs": []
+    },
+    {
+      "slug": "acca",
+      "title": "ACCA",
+      "category": "Accounting & Finance",
+      "kind": "Professional qualification",
+      "level": "All levels",
+      "summary": "Coaching for every ACCA level, from Applied Knowledge to Strategic Professional, with mock exams and revision each cycle.",
+      "duration": "6 months – 3 years",
+      "audience": [
+        "Finance & accounting graduates building a global career",
+        "Working professionals seeking ACCA certification",
+        "CA India / CMA India professionals seeking global recognition",
+        "Non-graduates who can start with Foundations in Accountancy (FIA)"
+      ],
+      "outcomes": [
+        "Applied Knowledge (3 papers): Business & Technology, Management Accounting, Financial Accounting",
+        "Applied Skills (6 papers): Taxation, Audit & Assurance, Financial Management + others",
+        "Strategic Professional (4 papers): Advanced Financial Management, Strategic Business Leader + 2 electives",
+        "Ethics and Professional Skills Module (EPSM)",
+        "36 months Practical Experience Requirement (PER)",
+        "Eligible roles: Finance Manager, Auditor, Tax Consultant, Business Analyst, CFO"
+      ],
+      "modules": [
+        "Knowledge Module: BT – Business and Technology, MA – Management Accounting, FA – Financial Accounting",
+        "Skills Module: LW – Corporate & Business Law, PM – Performance Management, TX – Taxation, FR – Financial Reporting, AA – Audit & Assurance, FM – Financial Management",
+        "Professional Module: SBL – Strategic Business Leader, SBR – Strategic Business Reporting",
+        "Optional papers (two to be completed): AFM – Advanced Financial Management, APM – Advanced Performance Management, ATX – Advanced Taxation, AAA – Advanced Audit & Assurance",
+        "Exam format: Computer-based, multiple-choice + written case studies",
+        "Exam frequency: March, June, September, December"
+      ],
+      "certificate": "The ACCA qualification is awarded by ACCA; MHEC prepares you for the exams.",
+      "faqs": [
+        {
+          "q": "What is ACCA, and what are its benefits?",
+          "a": "ACCA (Association of Chartered Certified Accountants) is a globally recognized accounting qualification. It offers career opportunities in finance, audit, and taxation, with high earning potential and recognition in over 180 countries."
+        },
+        {
+          "q": "How long does it take to complete the ACCA qualification?",
+          "a": "ACCA takes around 3 to 4 years to complete, but students with exemptions can finish in 1.5 to 2 years. It includes 13 exams, 36 months of work experience, and an ethics module."
+        },
+        {
+          "q": "What are the eligibility requirements for ACCA?",
+          "a": "The minimum requirement is two A-levels and three GCSEs (or equivalent), including English and Mathematics. Degree holders in relevant fields may receive exemptions. Those without qualifications can start with Foundations in Accountancy (FIA)."
+        },
+        {
+          "q": "What is the exam structure of ACCA?",
+          "a": "ACCA has three levels: Applied Knowledge (3 exams), Applied Skills (6 exams), and Strategic Professional (4 exams, including 2 optional). The exams cover accounting, finance, taxation, and business management."
+        }
+      ]
+    },
+    {
+      "slug": "cma",
+      "title": "CMA (US)",
+      "category": "Accounting & Finance",
+      "kind": "Professional qualification",
+      "level": "Intermediate",
+      "summary": "Preparation for both parts of the Certified Management Accountant exam: planning, analysis, control and strategic finance.",
+      "duration": "4–6 months",
+      "audience": [
+        "Professionals accelerating career in financial management & strategic leadership",
+        "Fresh graduates aspiring to become management accounting professionals",
+        "Individuals wanting a globally respected certification across countries",
+        "CA India / CMA India students midway through their journey",
+        "Accounting graduates & students, business managers, financial analysts"
+      ],
+      "outcomes": [
+        "Financial reporting and performance evaluation",
+        "Strategic budgeting, planning, and cost management",
+        "Investment and decision analysis",
+        "Risk assessment and internal control systems",
+        "Ethical financial practices",
+        "Analytics-driven business decision-making"
+      ],
+      "modules": [
+        "Part 1 — Financial Planning, Performance & Analytics: Cost Management 15%, Internal Controls 15%, Technology & Analytics 15%, External Financial Reporting 15%, Planning, Budgeting & Forecasting 20%, Performance Management 20%",
+        "Part 2 — Strategic Financial Management: Financial Statement Analysis 20%, Corporate Finance 20%, Decision Analysis 25%, Risk Management 10%, Investment Decisions 10%, Professional Ethics 15%",
+        "Exam format: 75% objective (multiple choice) / 25% essay questions",
+        "Passing score: 360 out of 500 on each part",
+        "Exam windows: January–February, May–June, September–October"
+      ],
+      "certificate": "The CMA is awarded by IMA; MHEC prepares you for the exams.",
+      "faqs": [
+        {
+          "q": "What is CMA and why should I pursue it?",
+          "a": "The CMA (Certified Management Accountant) is a globally recognized credential offered by IMA, USA. It demonstrates expertise in financial planning, analysis, control, and decision support — skills critical for career advancement in finance and accounting."
+        },
+        {
+          "q": "How long does it take to complete the CMA?",
+          "a": "Most candidates complete the CMA in 12 to 18 months. The exam has two parts, and you have up to 3 years to complete both after registering."
+        },
+        {
+          "q": "What are the CMA exam windows?",
+          "a": "CMA exams are offered in three testing windows each year: January–February, May–June, and September–October."
+        },
+        {
+          "q": "What is the passing score for CMA?",
+          "a": "The passing score is 360 out of 500 on each part. The exam format is 75% objective (multiple choice) and 25% essay questions."
+        }
+      ]
+    },
+    {
+      "slug": "ifrs",
+      "title": "IFRS (Cert IFRS / DipIFR)",
+      "category": "Accounting & Finance",
+      "kind": "Professional qualification",
+      "level": "Intermediate",
+      "summary": "Understand and apply International Financial Reporting Standards, with preparation for ACCA's Cert IFRS or DipIFR.",
+      "duration": "2–3 months",
+      "audience": [
+        "Accountants & Auditors",
+        "Finance Managers & Analysts",
+        "ACCA, CPA, CMA & CA students",
+        "Professionals working in multinational companies",
+        "Anyone wishing to transition to IFRS-based reporting"
+      ],
+      "outcomes": [],
+      "modules": [
+        "Introduction to IFRS — Evolution, IASB structure, IFRS vs Local GAAP, Conceptual Framework",
+        "Presentation & Disclosure — IAS 1, IAS 7, IAS 8, Notes and disclosures",
+        "Assets — IAS 16, IAS 38, IAS 2, IAS 36, IFRS 5",
+        "Financial Instruments — IFRS 9, IFRS 7, IFRS 13",
+        "Revenue & Contracts — IFRS 15 with practical applications",
+        "Leases — IFRS 16 (Lessee & Lessor accounting)",
+        "Liabilities & Provisions — IAS 12, IAS 37, IAS 19",
+        "Business Combinations & Consolidation — IFRS 3, IFRS 10, IFRS 11, IFRS 12, IAS 28"
+      ],
+      "certificate": "Cert IFRS and DipIFR are awarded by ACCA; MHEC prepares you for the exams.",
+      "faqs": [
+        {
+          "q": "What is the difference between Cert IFRS and DipIFR?",
+          "a": "Cert IFRS is a foundation-level certificate with a 1-hour online MCQ exam and no eligibility requirements. DipIFR is an advanced diploma with a 3-hour written exam that includes consolidation and complex IFRS applications, requiring a degree or relevant work experience."
+        },
+        {
+          "q": "Who should pursue IFRS certification?",
+          "a": "IFRS certification is ideal for accountants, auditors, finance managers, and professionals in multinational companies who prepare or review financial statements."
+        }
+      ]
+    },
+    {
+      "slug": "acams",
+      "title": "ACAMS Anti-Money Laundering (AML)",
+      "category": "Accounting & Finance",
+      "kind": "Professional qualification",
+      "level": "Intermediate",
+      "summary": "Prepare for the ACAMS certification and learn how to detect, prevent and report financial crime.",
+      "duration": "2 months",
+      "audience": [
+        "Banking and financial services professionals",
+        "Compliance officers and legal professionals",
+        "Risk and fraud prevention professionals",
+        "Law enforcement and regulatory body professionals",
+        "Anyone seeking CAMS certification"
+      ],
+      "outcomes": [],
+      "modules": [
+        "AML fundamentals and global regulatory frameworks (FATF, FinCEN)",
+        "Risk assessment and fraud prevention techniques",
+        "Know Your Customer (KYC) policies and procedures",
+        "Suspicious Activity Reports (SARs) and investigation strategies",
+        "Compliance program design and implementation",
+        "CAMS exam preparation with practice questions"
+      ],
+      "certificate": "The CAMS certification is awarded by ACAMS; MHEC prepares you for the exam.",
+      "faqs": [
+        {
+          "q": "What is the CAMS certification?",
+          "a": "CAMS (Certified Anti-Money Laundering Specialist) is the gold standard in AML certification, awarded by ACAMS. It is recognized by employers in banking, finance, and regulatory sectors worldwide."
+        },
+        {
+          "q": "Is the CAMS exam difficult?",
+          "a": "The CAMS exam requires thorough preparation. Our course covers all exam topics systematically with practice tests to help you pass on your first attempt."
+        }
+      ]
+    },
+    {
+      "slug": "vat-corporate-tax",
+      "title": "UAE VAT & Corporate Tax",
+      "category": "Accounting & Finance",
+      "kind": "Skill programme",
+      "level": "Beginner",
+      "summary": "Practical, job-ready training on UAE VAT and Corporate Tax rules, returns and compliance.",
+      "duration": "VAT 5 hrs + Corporate Tax 7 hrs",
+      "audience": [
+        "Accountants, finance executives, and VAT professionals",
+        "Business owners and administrators",
+        "Anyone responsible for VAT or Corporate Tax compliance"
+      ],
+      "outcomes": [],
+      "modules": [
+        "Standard-rated, Zero-rated, and Exempt supplies",
+        "VAT registration rules — Mandatory & Voluntary",
+        "Taxable persons: Residents and Non-Residents",
+        "Free Zone Corporate Tax rules and qualifying income",
+        "Exempt persons and exclusions"
+      ],
+      "certificate": "MHEC certificate of completion.",
+      "faqs": [
+        {
+          "q": "Do I need prior accounting knowledge for this course?",
+          "a": "No, this course is designed for both beginners and working professionals. Basic familiarity with business transactions is helpful but not required."
+        }
+      ]
+    },
+    {
+      "slug": "financial-modeling",
+      "title": "Financial Modeling (Excel & Power BI)",
+      "category": "Accounting & Finance",
+      "kind": "Skill programme",
+      "level": "Intermediate",
+      "summary": "Build forecasting, valuation and budgeting models in Excel and present them in Power BI dashboards.",
+      "duration": "2 months",
+      "audience": [
+        "Finance & accounting professionals",
+        "Investment analysts and bankers",
+        "Business analysts and consultants",
+        "Entrepreneurs & small business owners",
+        "Anyone working with financial data and reporting"
+      ],
+      "outcomes": [
+        "Excel for financial modeling: advanced formulas, pivot tables, data visualization",
+        "Financial statements forecasting: balance sheets, P&L, and cash flow projections",
+        "Valuation models: DCF, comparable company analysis, and sensitivity analysis",
+        "Power BI for financial analysis: data transformation, visualization, and real-time dashboards",
+        "Scenario & risk analysis: stress testing financial models for risk management"
+      ],
+      "modules": [
+        "Excel for Financial Modeling: Advanced formulas, pivot tables, and data visualization",
+        "Financial Statements Forecasting: Balance sheets, P&L statements, and cash flow projections",
+        "Valuation Models: DCF, comparable company analysis, and sensitivity analysis",
+        "Power BI for Financial Analysis: Data transformation, visualization, and real-time dashboards",
+        "Scenario & Risk Analysis: Stress testing financial models for risk management"
+      ],
+      "certificate": "MHEC certificate of completion.",
+      "faqs": [
+        {
+          "q": "Do I need advanced Excel skills before joining?",
+          "a": "Intermediate Excel knowledge is recommended. The course starts with Excel advanced techniques before moving to financial modeling and Power BI."
+        }
+      ]
+    },
+    {
+      "slug": "tally-prime",
+      "title": "Tally Prime",
+      "category": "Accounting & Finance",
+      "kind": "Skill programme",
+      "level": "Beginner",
+      "summary": "Hands-on accounting in Tally Prime: company setup, vouchers, inventory, reports and taxation features.",
+      "duration": "1–2 months",
+      "audience": [
+        "Students looking to enhance accounting skills",
+        "Graduates and postgraduates aspiring for a career in Accounting and Finance",
+        "Business owners managing financial records",
+        "Working professionals seeking career growth",
+        "Entrepreneurs aiming for better financial management"
+      ],
+      "outcomes": [],
+      "modules": [
+        "Introduction to Tally Prime & interface navigation",
+        "Creating & managing companies, ledgers & groups",
+        "Vouchers & transactions entry",
+        "Accounts payable & receivable management",
+        "GST, TDS, and payroll processing",
+        "Generating tax reports",
+        "Stock management & inventory reports",
+        "Bank reconciliation",
+        "MIS reports & decision making"
+      ],
+      "certificate": "MHEC certificate of completion.",
+      "faqs": [
+        {
+          "q": "Do I need prior accounting knowledge for Tally training?",
+          "a": "Basic accounting knowledge is helpful but not mandatory. Our course starts from the basics."
+        },
+        {
+          "q": "Will I get a certificate after completing Tally training?",
+          "a": "Yes, you will receive an industry-recognized certificate upon successful completion of the course."
+        }
+      ]
+    },
+    {
+      "slug": "quickbooks",
+      "title": "QuickBooks",
+      "category": "Accounting & Finance",
+      "kind": "Skill programme",
+      "level": "Beginner",
+      "summary": "Manage invoicing, expenses, banking and financial reports for a small business in QuickBooks.",
+      "duration": "1 month",
+      "audience": [
+        "Students & accounting professionals aiming for a career boost",
+        "Entrepreneurs & small business owners managing finances",
+        "Freelancers & consultants looking for efficient accounting solutions",
+        "Finance executives wanting to learn QuickBooks for their organization"
+      ],
+      "outcomes": [],
+      "modules": [
+        "QuickBooks software navigation & setup",
+        "Chart of accounts & ledger management",
+        "Handling invoices, bills & payments",
+        "Payroll processing & employee management",
+        "Bank reconciliation & financial reporting",
+        "Taxation, GST/VAT & filing returns"
+      ],
+      "certificate": "MHEC certificate of completion.",
+      "faqs": [
+        {
+          "q": "How long is the QuickBooks course?",
+          "a": "The course duration is approximately 1 month with both weekday and weekend batch options available."
+        }
+      ]
+    },
+    {
+      "slug": "zoho-books",
+      "title": "Zoho Books",
+      "category": "Accounting & Finance",
+      "kind": "Skill programme",
+      "level": "Beginner",
+      "summary": "Run day-to-day business accounting in Zoho Books, from invoices and bills to bank reconciliation and reports.",
+      "duration": "1 month",
+      "audience": [
+        "Students & fresh graduates interested in cloud accounting",
+        "Small business owners needing an efficient financial system",
+        "Accounting professionals & entrepreneurs",
+        "Finance executives wanting to migrate to cloud-based accounting"
+      ],
+      "outcomes": [],
+      "modules": [
+        "Introduction to cloud accounting & Zoho Books interface",
+        "Managing sales, expenses & payments",
+        "Bank reconciliation & automated transactions",
+        "Inventory management & cost control",
+        "Taxation (GST, VAT) & compliance reporting",
+        "Customizing reports & data insights for decision making"
+      ],
+      "certificate": "MHEC certificate of completion.",
+      "faqs": [
+        {
+          "q": "Do I need prior accounting software experience?",
+          "a": "No prior experience is required. Our course starts from basics and progressively covers advanced features."
+        }
+      ]
+    },
+    {
+      "slug": "power-bi",
+      "title": "MS Power BI Mastery",
+      "category": "Business & Data Analytics",
+      "kind": "Skill programme",
+      "level": "Intermediate",
+      "summary": "Master Power Query, data modelling, DAX and dashboard design, with preparation for the PL-300 exam.",
+      "duration": "3 months",
+      "audience": [
+        "Business analysts and data professionals",
+        "Finance, marketing, sales & operations professionals",
+        "IT professionals & developers interested in business intelligence",
+        "Students aspiring for a data analytics career",
+        "Anyone seeking Microsoft Power BI certification for career growth"
+      ],
+      "outcomes": [],
+      "modules": [
+        "Introduction to Power BI & Data Connections — connecting to Excel, CSV, SQL, cloud data",
+        "Data Cleaning & Transformation with Power Query — filtering, merging, appending",
+        "Data Modeling & Relationships — relational models, table relationships, cardinality",
+        "Introduction to DAX & Advanced Analytics — CALCULATE, FILTER, RELATED, time intelligence",
+        "Data Visualization & Dashboard Design — tables, charts, matrices, maps, slicers, drill-through",
+        "Report Publishing & Sharing via Power BI Service",
+        "PL-300 Microsoft Power BI Data Analyst Certification Preparation"
+      ],
+      "certificate": "MHEC certificate of completion.",
+      "faqs": [
+        {
+          "q": "Do I need coding skills for Power BI?",
+          "a": "No coding is required. Power BI uses a drag-and-drop interface. However, learning DAX formulas (similar to Excel) will significantly enhance your analytical capabilities."
+        },
+        {
+          "q": "What is the PL-300 certification?",
+          "a": "The Microsoft PL-300 is the official Power BI Data Analyst certification. Passing it validates your ability to prepare data, create models, and deliver insights using Power BI."
+        }
+      ]
+    },
+    {
+      "slug": "power-bi-data-analysis",
+      "title": "Power BI Data Analysis (24 hours)",
+      "category": "Business & Data Analytics",
+      "kind": "Skill programme",
+      "level": "Beginner",
+      "summary": "A focused 24-hour course to clean data, build models and create interactive Power BI reports.",
+      "duration": "24 hours",
+      "audience": [
+        "Data analysts and business intelligence professionals",
+        "Finance & accounting professionals needing visualization tools",
+        "IT & database professionals",
+        "Marketing & sales analysts",
+        "Executives & managers leveraging data-driven decisions"
+      ],
+      "outcomes": [],
+      "modules": [
+        "Introduction to Power BI and Business Intelligence",
+        "Connecting and transforming data in Power BI",
+        "Data modeling: relationships, hierarchies, and calculated columns",
+        "DAX formulas and advanced calculations",
+        "Creating interactive dashboards and reports",
+        "Publishing and sharing reports via Power BI Service"
+      ],
+      "certificate": "MHEC certificate of completion.",
+      "faqs": [
+        {
+          "q": "How is this different from the Power BI Mastery course?",
+          "a": "This 24-hour course is a focused certification preparation track. The Power BI Mastery course is a more comprehensive 3-month program covering all aspects in greater depth."
+        }
+      ]
+    },
+    {
+      "slug": "power-bi-pl-300",
+      "title": "Power BI PL-300 Certification",
+      "category": "Business & Data Analytics",
+      "kind": "Professional qualification",
+      "level": "Intermediate",
+      "summary": "Targeted preparation for Microsoft's PL-300 Power BI Data Analyst certification exam.",
+      "duration": "2 months",
+      "audience": [
+        "Data analysts and business intelligence professionals",
+        "Finance & accounting professionals",
+        "IT & database professionals",
+        "Marketing & sales analysts",
+        "Candidates preparing for the PL-300 exam"
+      ],
+      "outcomes": [],
+      "modules": [
+        "Introduction to Power BI — Desktop, Service, and data visualization basics",
+        "Data transformation, visualization, and report automation",
+        "Data modeling, DAX formulas, and calculated measures",
+        "Interactive dashboard design and report publishing",
+        "PL-300 exam preparation with practice questions"
+      ],
+      "certificate": "The PL-300 certification is awarded by Microsoft; MHEC prepares you for the exam.",
+      "faqs": [
+        {
+          "q": "What score do I need to pass the PL-300 exam?",
+          "a": "You need a score of 700 or above out of 1000 to pass the Microsoft PL-300 certification exam."
+        },
+        {
+          "q": "How many questions are in the PL-300 exam?",
+          "a": "The PL-300 exam typically contains 40-60 questions covering data preparation, modeling, visualization, and deployment."
+        }
+      ]
+    },
+    {
+      "slug": "python",
+      "title": "Python Programming",
+      "category": "Business & Data Analytics",
+      "kind": "Skill programme",
+      "level": "Beginner",
+      "summary": "Learn Python from fundamentals to data handling, automation and object-oriented programming.",
+      "duration": "3 months",
+      "audience": [
+        "Beginners & Aspiring Programmers",
+        "Students & Fresh Graduates",
+        "IT Professionals & Software Developers",
+        "Data Analysts & Scientists",
+        "Engineers & Researchers"
+      ],
+      "outcomes": [],
+      "modules": [
+        "Programming Foundation: Data Types, Variables, Operators, Control Structures",
+        "Object-Oriented Concepts: Classes, Objects, Inheritance, Polymorphism",
+        "Getting Started with Python: History, Features, Python 2 vs 3, Installation",
+        "Python Setup: Anaconda, Jupyter Notebook, PyCharm",
+        "Core Python: Functions, File Handling, Modules, Libraries",
+        "Advanced Python: OOP, sorting & searching algorithms, data visualization",
+        "Data Science with Python: Pandas, NumPy, Matplotlib, Machine Learning basics",
+        "Web Development: Django and Flask frameworks"
+      ],
+      "certificate": "MHEC certificate of completion.",
+      "faqs": [
+        {
+          "q": "Is Python difficult to learn for beginners?",
+          "a": "Python is considered one of the most beginner-friendly programming languages due to its simple, English-like syntax. Our course is designed specifically for beginners."
+        }
+      ]
+    },
+    {
+      "slug": "sql",
+      "title": "SQL Mastery",
+      "category": "Business & Data Analytics",
+      "kind": "Skill programme",
+      "level": "Beginner",
+      "summary": "Query, manage and analyse databases with SQL, from basic SELECT statements to joins and reporting.",
+      "duration": "2 months",
+      "audience": [
+        "Aspiring Data Analysts & Scientists",
+        "Software Developers & Engineers",
+        "Business Intelligence Professionals",
+        "IT & Database Administrators",
+        "Finance & Marketing Analysts"
+      ],
+      "outcomes": [],
+      "modules": [
+        "SQL Fundamentals — installation, database creation, MySQL basics",
+        "Writing and optimizing queries",
+        "Advanced SQL — Subqueries, Window Functions, CASE statements",
+        "Data Management Commands — CREATE, INSERT, UPDATE, DELETE",
+        "Functions and Joins — all types of joins",
+        "Import, Export & Data Analysis with advanced functions",
+        "Performance tuning & security best practices"
+      ],
+      "certificate": "MHEC certificate of completion.",
+      "faqs": [
+        {
+          "q": "What database system will be used in this course?",
+          "a": "We primarily use MySQL and also cover SQL concepts applicable to PostgreSQL, SQL Server, and Oracle."
+        },
+        {
+          "q": "Is SQL required for a data analytics career?",
+          "a": "Yes, SQL is considered a core skill for data analysts and is required for most data roles alongside Excel and Python/Power BI."
+        }
+      ]
+    },
+    {
+      "slug": "excel-mastery",
+      "title": "Excel Mastery (Basic to Advanced)",
+      "category": "Business & Data Analytics",
+      "kind": "Skill programme",
+      "level": "All levels",
+      "summary": "A complete Excel programme from basics to advanced formulas, PivotTables, dashboards and automation.",
+      "duration": "2 months",
+      "audience": [
+        "Students & Fresh Graduates — build a strong foundation in Excel",
+        "Business Professionals — enhance productivity with advanced Excel",
+        "Finance & Accounting Experts — financial models, budgeting, data analysis",
+        "Data Analysts & Researchers — analyze and visualize large datasets",
+        "HR & Admin Professionals — manage employee records and operational data"
+      ],
+      "outcomes": [],
+      "modules": [
+        "Introduction to Excel & basic operations — interface, formatting, basic formulas",
+        "Data sorting, filtering & validation",
+        "Essential & advanced formulas — IF, VLOOKUP, INDEX-MATCH, COUNTIF, SUMIF",
+        "Pivot Tables & Dashboards — dynamic reports and summaries",
+        "Data Visualization — custom charts, conditional formatting, sparklines",
+        "Macros & VBA Automation — recording macros and writing VBA scripts",
+        "Power Query & Power Pivot — handling large datasets",
+        "Excel with AI: Copilot & ChatGPT — formulas, data cleaning, automation"
+      ],
+      "certificate": "MHEC certificate of completion.",
+      "faqs": [
+        {
+          "q": "Is this course suitable for complete beginners?",
+          "a": "Yes, the course starts from basic Excel operations and progressively moves to advanced techniques and AI integration."
+        },
+        {
+          "q": "What version of Excel is used?",
+          "a": "We use Microsoft Excel 365 (the latest version), which includes Copilot AI integration features."
+        }
+      ]
+    },
+    {
+      "slug": "microsoft-excel",
+      "title": "Microsoft Excel",
+      "category": "Business & Data Analytics",
+      "kind": "Skill programme",
+      "level": "Beginner",
+      "summary": "Build confident everyday Excel skills: formulas, formatting, charts, tables and data tools.",
+      "duration": "1 month",
+      "audience": [
+        "Business professionals & executives",
+        "Data analysts & financial professionals",
+        "Students & recent graduates",
+        "Entrepreneurs & small business owners",
+        "Anyone looking to improve Excel skills"
+      ],
+      "outcomes": [],
+      "modules": [
+        "Excel interface, workbooks, and basic operations",
+        "Formulas and functions: SUM, AVERAGE, IF, VLOOKUP, INDEX-MATCH",
+        "Data sorting, filtering, and conditional formatting",
+        "Pivot Tables and Pivot Charts",
+        "Data visualization with charts and graphs",
+        "Named ranges, data validation, and protection",
+        "Advanced formulas: SUMIFS, COUNTIFS, XLOOKUP",
+        "Introduction to Macros for automation"
+      ],
+      "certificate": "MHEC certificate of completion.",
+      "faqs": [
+        {
+          "q": "What level of Excel does this course cover?",
+          "a": "The course covers beginner to advanced Excel, from basic data entry and formulas through to Pivot Tables, advanced functions, and introduction to Macros."
+        }
+      ]
+    },
+    {
+      "slug": "ms-office",
+      "title": "MS Office (Beginner to Advanced)",
+      "category": "Business & Data Analytics",
+      "kind": "Skill programme",
+      "level": "Beginner",
+      "summary": "Word, Excel, PowerPoint and Outlook from the basics, with practical office projects.",
+      "duration": "1–2 months",
+      "audience": [
+        "Fresh graduates and job seekers",
+        "Office administrators, secretaries, and receptionists",
+        "Account assistants and data entry staff",
+        "Business owners and managers"
+      ],
+      "outcomes": [],
+      "modules": [
+        "Overview of Word, Excel, PowerPoint, and Outlook",
+        "Interface and Ribbon navigation",
+        "File management: Open, Save, Save As, Print, Export",
+        "Common tools, commands, and keyboard shortcuts",
+        "Microsoft Word: document formatting, tables, mail merge",
+        "Microsoft Excel: formulas, pivot tables, charts",
+        "Microsoft PowerPoint: presentations, animations, design",
+        "Microsoft Outlook: email management, calendar, tasks"
+      ],
+      "certificate": "MHEC certificate of completion.",
+      "faqs": [
+        {
+          "q": "Can I take individual MS Office modules instead of the full package?",
+          "a": "Yes, we offer individual courses for Word, Excel, PowerPoint, and Outlook separately. Contact us to discuss which modules suit your needs."
+        }
+      ]
+    },
+    {
+      "slug": "microsoft-word",
+      "title": "Microsoft Word",
+      "category": "Business & Data Analytics",
+      "kind": "Skill programme",
+      "level": "Beginner",
+      "summary": "Create professional documents in Word: formatting, styles, tables, mail merge and long documents.",
+      "duration": "2 weeks",
+      "audience": [
+        "Students & Professionals",
+        "Administrative & Office Staff",
+        "Writers & Content Creators",
+        "Business Owners & Entrepreneurs",
+        "Teachers & Educators",
+        "Anyone looking to improve document formatting skills"
+      ],
+      "outcomes": [],
+      "modules": [
+        "Word interface, navigation, and basic formatting",
+        "Styles, themes, and document templates",
+        "Working with tables, lists, and columns",
+        "Headers, footers, page numbers, and sections",
+        "Mail merge for letters, envelopes, and labels",
+        "Track changes, comments, and document collaboration",
+        "Working with images, shapes, and text boxes",
+        "Table of contents, references, and citations"
+      ],
+      "certificate": "MHEC certificate of completion.",
+      "faqs": []
+    },
+    {
+      "slug": "microsoft-powerpoint",
+      "title": "Microsoft PowerPoint",
+      "category": "Business & Data Analytics",
+      "kind": "Skill programme",
+      "level": "Beginner",
+      "summary": "Design clear, impactful presentations with layouts, visuals, animation and presenter tools.",
+      "duration": "2 weeks",
+      "audience": [
+        "Business Professionals & Executives",
+        "Teachers & Trainers",
+        "Students & Fresh Graduates",
+        "Entrepreneurs & Marketers",
+        "Public Speakers & Presenters",
+        "Anyone who wants to improve PowerPoint skills"
+      ],
+      "outcomes": [],
+      "modules": [
+        "PowerPoint interface, slides, and layouts",
+        "Design principles: themes, colors, fonts, and templates",
+        "Working with text, images, shapes, and SmartArt",
+        "Charts, tables, and data visualization in PowerPoint",
+        "Animations and transitions",
+        "Multimedia integration: videos and audio",
+        "Presenter view and presentation tips",
+        "Exporting presentations to PDF, video, and other formats"
+      ],
+      "certificate": "MHEC certificate of completion.",
+      "faqs": [
+        {
+          "q": "What version of PowerPoint is covered?",
+          "a": "We use Microsoft PowerPoint 365, which includes the latest design and AI-assisted features."
+        }
+      ]
+    },
+    {
+      "slug": "microsoft-outlook",
+      "title": "Microsoft Outlook",
+      "category": "Business & Data Analytics",
+      "kind": "Skill programme",
+      "level": "Beginner",
+      "summary": "Manage email, calendars, contacts and tasks in Outlook to work faster and stay organised.",
+      "duration": "2 weeks",
+      "audience": [
+        "Office professionals & administrative staff",
+        "Business owners & entrepreneurs",
+        "HR, sales & customer service professionals",
+        "Anyone looking to improve email management & productivity"
+      ],
+      "outcomes": [],
+      "modules": [
+        "Outlook interface, navigation, and settings",
+        "Email management: composing, organizing, folders, rules",
+        "Calendar: scheduling meetings, appointments, recurring events",
+        "Contacts management and address books",
+        "Tasks and to-do lists",
+        "Outlook search and filtering techniques",
+        "Email signatures, out-of-office replies, and templates"
+      ],
+      "certificate": "MHEC certificate of completion.",
+      "faqs": [
+        {
+          "q": "Is this course suitable for beginners?",
+          "a": "Yes, the course is designed for all levels from beginners to intermediate users wanting to maximize their Outlook productivity."
+        }
+      ]
+    },
+    {
+      "slug": "data-analytics",
+      "title": "Data Analytics (SQL + Python + Power BI)",
+      "category": "Business & Data Analytics",
+      "kind": "Skill programme",
+      "level": "Beginner",
+      "summary": "A 60-hour job-ready programme that takes you from raw data to insight with SQL, Python and Power BI.",
+      "duration": "60 hours",
+      "audience": [
+        "Graduates starting a data career",
+        "Professionals moving into analyst roles",
+        "Excel users ready for the next step"
+      ],
+      "outcomes": [
+        "Query databases with SQL",
+        "Clean and analyse data with Python",
+        "Build interactive dashboards in Power BI",
+        "Present findings to decision-makers"
+      ],
+      "modules": [
+        "Data analytics foundations",
+        "SQL for querying and joining data",
+        "Python for data cleaning and analysis",
+        "Power BI data modelling and DAX",
+        "Dashboard design and storytelling",
+        "Capstone project"
+      ],
+      "certificate": "MHEC certificate of completion.",
+      "faqs": []
+    },
+    {
+      "slug": "digital-marketing",
+      "title": "Digital Marketing",
+      "category": "Digital Marketing & Design",
+      "kind": "Skill programme",
+      "level": "Beginner",
+      "summary": "A complete, practical digital marketing course: strategy, social media, SEO, Google and Meta ads, email and analytics.",
+      "duration": "2 months",
+      "audience": [
+        "Students and fresh graduates",
+        "Marketing professionals",
+        "Entrepreneurs and small business owners",
+        "Freelancers",
+        "Anyone looking to build a digital career"
+      ],
+      "outcomes": [],
+      "modules": [
+        "SEO — On-page & off-page, keyword research, technical SEO, ranking strategies",
+        "Social Media Marketing — Facebook, Instagram, LinkedIn, content planning, paid ads",
+        "Google Ads & PPC Campaigns — search, display, YouTube ads, budget optimization",
+        "Content Marketing — writing for the web, brand storytelling, blog strategy",
+        "Analytics & Reporting — Google Analytics, performance tracking, conversion optimization",
+        "Website & Landing Page Basics — WordPress, user experience, lead generation pages",
+        "Email Marketing"
+      ],
+      "certificate": "MHEC certificate of completion.",
+      "faqs": [
+        {
+          "q": "Do I need any technical background for this course?",
+          "a": "No, this course is suitable for complete beginners. We start from digital marketing fundamentals and progressively cover advanced strategies."
+        },
+        {
+          "q": "What tools will I learn to use?",
+          "a": "You will get hands-on experience with Google Analytics, Google Ads, Meta Business Suite, WordPress, Ahrefs, SEMrush, and email marketing platforms."
+        },
+        {
+          "q": "Can I get a job after completing this course?",
+          "a": "Yes, the course is designed to be job-ready. Graduates go on to work as SEO specialists, social media managers, PPC specialists, and digital marketing executives."
+        }
+      ]
+    },
+    {
+      "slug": "seo",
+      "title": "SEO (Search Engine Optimisation)",
+      "category": "Digital Marketing & Design",
+      "kind": "Skill programme",
+      "level": "Beginner",
+      "summary": "Rank higher on Google with keyword research, on-page and technical SEO, content and link building.",
+      "duration": "1 month",
+      "audience": [
+        "Digital marketers & content creators",
+        "Business owners wanting to improve website visibility",
+        "Aspiring SEO specialists",
+        "Web developers",
+        "Bloggers & online entrepreneurs"
+      ],
+      "outcomes": [],
+      "modules": [
+        "Keyword research and competitive analysis",
+        "On-page SEO: meta tags, headings, internal linking",
+        "Off-page SEO: link building and authority",
+        "Technical SEO: site speed, mobile optimization, crawlability",
+        "Content optimization for search engines",
+        "SEO tools: Ahrefs, SEMrush, Google Search Console",
+        "Analytics: tracking and measuring SEO performance"
+      ],
+      "certificate": "MHEC certificate of completion.",
+      "faqs": [
+        {
+          "q": "How long does it take to see SEO results?",
+          "a": "SEO is a long-term strategy. Typically, you can start seeing improvements in 3-6 months, depending on the competitiveness of your niche."
+        },
+        {
+          "q": "Is SEO still relevant in 2025?",
+          "a": "Absolutely. SEO remains one of the most cost-effective digital marketing strategies. With AI-driven search evolving, understanding SEO is more important than ever."
+        }
+      ]
+    },
+    {
+      "slug": "sem-google-ads",
+      "title": "SEM & Google Ads",
+      "category": "Digital Marketing & Design",
+      "kind": "Skill programme",
+      "level": "Beginner",
+      "summary": "Plan, launch and optimise Google Ads search, display and video campaigns that convert.",
+      "duration": "1 month",
+      "audience": [
+        "Digital marketers",
+        "Business owners wanting to run paid ads",
+        "Marketing professionals",
+        "Freelancers managing ad campaigns",
+        "Anyone wanting to improve ROI from paid search"
+      ],
+      "outcomes": [],
+      "modules": [
+        "Google Ads campaign types: Search, Display, Shopping, YouTube",
+        "Keyword research and match types",
+        "Bidding strategies and budget management",
+        "Ad copywriting and A/B testing",
+        "Conversion tracking and Google Analytics integration",
+        "Performance optimization and ROI improvement"
+      ],
+      "certificate": "MHEC certificate of completion.",
+      "faqs": [
+        {
+          "q": "Do I need a Google Ads account to join this course?",
+          "a": "We will guide you through creating a Google Ads account. A small budget for practice campaigns is recommended but not mandatory."
+        },
+        {
+          "q": "Is Google Ads certification covered?",
+          "a": "Yes, the course prepares you for the Google Ads certifications which you can take through the Google Skillshop platform."
+        }
+      ]
+    },
+    {
+      "slug": "social-media-marketing",
+      "title": "Social Media Marketing",
+      "category": "Digital Marketing & Design",
+      "kind": "Skill programme",
+      "level": "Beginner",
+      "summary": "Grow brands on Instagram, Facebook, LinkedIn and TikTok with content strategy and paid social.",
+      "duration": "1 month",
+      "audience": [
+        "Digital marketers & business owners",
+        "Marketing professionals",
+        "Content creators & social media managers",
+        "Entrepreneurs",
+        "Anyone wanting to grow their brand on social media"
+      ],
+      "outcomes": [],
+      "modules": [
+        "Social media platform strategies: Facebook, Instagram, LinkedIn, Twitter/X",
+        "Content creation and planning",
+        "Audience targeting and segmentation",
+        "Paid social advertising — Facebook Ads, Instagram Ads",
+        "Community management and engagement",
+        "Social media analytics and performance tracking"
+      ],
+      "certificate": "MHEC certificate of completion.",
+      "faqs": [
+        {
+          "q": "Which social media platforms are covered?",
+          "a": "The course covers Facebook, Instagram, LinkedIn, Twitter/X, TikTok, and YouTube — the most relevant platforms for business marketing."
+        },
+        {
+          "q": "Will I learn how to run paid ads?",
+          "a": "Yes, paid advertising on Facebook and Instagram is a core component of this course, including campaign setup, targeting, and budget management."
+        }
+      ]
+    },
+    {
+      "slug": "email-marketing",
+      "title": "Email Marketing",
+      "category": "Digital Marketing & Design",
+      "kind": "Skill programme",
+      "level": "Beginner",
+      "summary": "Build lists, write campaigns, automate journeys and measure results with email marketing tools.",
+      "duration": "1 month",
+      "audience": [
+        "Business owners & marketers",
+        "Content creators",
+        "E-commerce professionals",
+        "Marketing professionals",
+        "Anyone wanting to improve email marketing campaigns"
+      ],
+      "outcomes": [],
+      "modules": [
+        "Email marketing fundamentals and strategy",
+        "Building and growing an email list",
+        "Email campaign creation and design",
+        "Audience segmentation and personalization",
+        "Marketing automation workflows",
+        "A/B testing and performance optimization",
+        "Email compliance: GDPR, CAN-SPAM regulations"
+      ],
+      "certificate": "MHEC certificate of completion.",
+      "faqs": [
+        {
+          "q": "What email marketing tools will I learn?",
+          "a": "The course covers Mailchimp, ActiveCampaign, and other popular email marketing platforms used by businesses worldwide."
+        },
+        {
+          "q": "Is email marketing still effective?",
+          "a": "Email marketing consistently delivers one of the highest ROI of any marketing channel — approximately $42 for every $1 spent on average."
+        }
+      ]
+    },
+    {
+      "slug": "graphic-design",
+      "title": "Graphic Design",
+      "category": "Digital Marketing & Design",
+      "kind": "Skill programme",
+      "level": "Beginner",
+      "summary": "Learn design principles and create posters, social media graphics and brand materials.",
+      "duration": "2 months",
+      "audience": [
+        "Students exploring creative careers",
+        "Freelancers and entrepreneurs",
+        "Marketing professionals & social media managers",
+        "Anyone passionate about design",
+        "Marketing & Branding Professionals"
+      ],
+      "outcomes": [],
+      "modules": [
+        "Fundamentals of graphic design & branding",
+        "Mastering Adobe Photoshop, Illustrator & InDesign",
+        "Logo design & visual identity creation",
+        "UI/UX design principles & wireframing",
+        "Social media graphics & marketing materials",
+        "Typography, color theory & composition",
+        "Print & digital media design techniques"
+      ],
+      "certificate": "MHEC certificate of completion.",
+      "faqs": [
+        {
+          "q": "Do I need design experience to join this course?",
+          "a": "No prior experience is needed. The course is designed for complete beginners and progressively builds to advanced design skills."
+        },
+        {
+          "q": "What software will I learn?",
+          "a": "You will learn Adobe Photoshop, Illustrator, InDesign, Canva, and Figma — the most widely used design tools in the industry."
+        },
+        {
+          "q": "Will I build a portfolio during this course?",
+          "a": "Yes! Portfolio development is an integral part of our graphic design course. You will create real projects to showcase to employers."
+        }
+      ]
+    },
+    {
+      "slug": "adobe-photoshop",
+      "title": "Adobe Photoshop",
+      "category": "Digital Marketing & Design",
+      "kind": "Skill programme",
+      "level": "Beginner",
+      "summary": "Edit photos, retouch images and create compositions and graphics in Adobe Photoshop.",
+      "duration": "1 month",
+      "audience": [
+        "Graphic Designers",
+        "Photographers & Retouchers",
+        "Digital Artists & Illustrators",
+        "Social Media Marketers",
+        "Content Creators & Bloggers",
+        "Marketing & Branding Professionals",
+        "Students & Hobbyists interested in design"
+      ],
+      "outcomes": [],
+      "modules": [
+        "Photoshop interface & essential tools",
+        "Image retouching & enhancement techniques",
+        "Layering, masking & blending modes",
+        "Creating logos, banners & social media graphics",
+        "Photo manipulation & special effects",
+        "Typography & text effects",
+        "Advanced compositing & digital painting",
+        "Exporting & optimizing images for print & web"
+      ],
+      "certificate": "MHEC certificate of completion.",
+      "faqs": [
+        {
+          "q": "Do I need prior experience with Photoshop?",
+          "a": "No! This course is suitable for complete beginners as well as intermediate users looking to enhance their skills."
+        },
+        {
+          "q": "What software version will be used?",
+          "a": "We use the latest Adobe Photoshop CC version for training."
+        },
+        {
+          "q": "What career opportunities does this course offer?",
+          "a": "You can become a Graphic Designer, Photo Editor, Digital Artist, or Social Media Designer."
+        }
+      ]
+    },
+    {
+      "slug": "digital-creative",
+      "title": "Digital Creative",
+      "category": "Digital Marketing & Design",
+      "kind": "Skill programme",
+      "level": "Beginner",
+      "summary": "Combine graphic design and digital content skills to produce creative work for brands and social media.",
+      "duration": "2 months",
+      "audience": [
+        "Aspiring designers",
+        "Digital marketing professionals",
+        "Business owners wanting design skills",
+        "Social media managers",
+        "Anyone wanting to create impactful visual content"
+      ],
+      "outcomes": [],
+      "modules": [
+        "Core design principles and visual communication",
+        "Adobe Creative Suite: Photoshop & Illustrator",
+        "UI/UX design fundamentals",
+        "Digital marketing design: social media, banners, ads",
+        "Brand identity and visual consistency",
+        "Client presentation and design delivery"
+      ],
+      "certificate": "MHEC certificate of completion.",
+      "faqs": [
+        {
+          "q": "What is Digital Creative training?",
+          "a": "Digital Creative training combines graphic design skills with digital marketing tools, preparing you to create effective visual content for online platforms and campaigns."
+        }
+      ]
+    },
+    {
+      "slug": "ielts",
+      "title": "IELTS",
+      "category": "Exam Preparation",
+      "kind": "Exam preparation",
+      "level": "All levels",
+      "summary": "Live coaching for all four IELTS skills, Academic and General Training, with mock tests and band-score feedback.",
+      "duration": "4–8 weeks",
+      "audience": [
+        "Students applying for international universities",
+        "Professionals seeking global job opportunities",
+        "Individuals planning for immigration",
+        "Anyone looking to improve their English proficiency",
+        "Test takers aiming for IELTS Academic or General Training"
+      ],
+      "outcomes": [],
+      "modules": [
+        "IELTS test format & scoring system",
+        "Strategies for IELTS Listening, Reading, Writing & Speaking",
+        "How to manage time effectively during the IELTS test",
+        "Vocabulary & grammar improvement techniques for IELTS",
+        "Common IELTS mistakes & how to avoid them",
+        "IELTS Writing task formats & effective essay structuring",
+        "Fluency & pronunciation techniques for IELTS speaking",
+        "Mock exams with expert feedback"
+      ],
+      "certificate": "IELTS results are issued by the test provider; MHEC prepares you for the test.",
+      "faqs": [
+        {
+          "q": "How long is the IELTS course duration?",
+          "a": "The course duration varies from 4 to 8 weeks, depending on the student's level and target band score."
+        },
+        {
+          "q": "Do I need prior English knowledge for IELTS?",
+          "a": "Basic English proficiency is recommended, but we offer beginner-friendly sessions too."
+        },
+        {
+          "q": "Will I get mock tests during the course?",
+          "a": "Yes! We provide full-length IELTS mock tests to simulate real exam conditions."
+        },
+        {
+          "q": "Can I retake the course if I don't achieve my target band?",
+          "a": "Yes! We offer continued support and additional practice sessions if needed."
+        }
+      ]
+    },
+    {
+      "slug": "oet",
+      "title": "OET",
+      "category": "Exam Preparation",
+      "kind": "Exam preparation",
+      "level": "Intermediate",
+      "summary": "English test preparation for healthcare professionals, covering all four OET sub-tests with profession-specific practice.",
+      "duration": "6–12 weeks",
+      "audience": [
+        "Doctors & General Practitioners",
+        "Nurses & Midwives",
+        "Dentists",
+        "Pharmacists",
+        "Physiotherapists",
+        "Radiographers",
+        "Healthcare professionals seeking overseas opportunities"
+      ],
+      "outcomes": [],
+      "modules": [
+        "Mastering OET Listening strategies & techniques",
+        "Effective reading comprehension for medical texts",
+        "Writing professional referral & discharge letters",
+        "Speaking skills for real-life medical scenarios",
+        "Time management techniques for test day",
+        "Understanding medical vocabulary & terminology",
+        "Exam format, structure, and scoring criteria",
+        "Personalized feedback & one-on-one coaching"
+      ],
+      "certificate": "OET results are issued by OET; MHEC prepares you for the test.",
+      "faqs": [
+        {
+          "q": "What OET score do I need to pass?",
+          "a": "Most countries require a B grade (350–440) in all four sections. Some professions or countries may accept a C+ in certain sub-tests."
+        },
+        {
+          "q": "How long is the OET preparation course?",
+          "a": "The course runs from 6 to 12 weeks depending on your current level and target score."
+        },
+        {
+          "q": "Is OET only for doctors and nurses?",
+          "a": "No, OET is available for 12 healthcare professions including dentists, pharmacists, physiotherapists, and radiographers."
+        },
+        {
+          "q": "How is OET different from IELTS?",
+          "a": "OET tests English in a healthcare context with medical scenarios, while IELTS tests general English. OET is preferred by many medical registration bodies worldwide."
+        }
+      ]
+    },
+    {
+      "slug": "pte",
+      "title": "PTE Academic",
+      "category": "Exam Preparation",
+      "kind": "Exam preparation",
+      "level": "All levels",
+      "summary": "Targeted preparation for the computer-based PTE Academic test, with scored mock tests.",
+      "duration": "4–6 weeks",
+      "audience": [
+        "Students planning to study abroad",
+        "Professionals applying for work visas",
+        "Individuals looking to improve English proficiency",
+        "Anyone aiming for PTE Academic success",
+        "People struggling with previous PTE attempts"
+      ],
+      "outcomes": [],
+      "modules": [
+        "Effective Speaking techniques to improve fluency",
+        "Writing strategies for essay & summary tasks",
+        "Reading comprehension skills & time-saving methods",
+        "Listening skills to catch key information quickly",
+        "How to avoid common PTE mistakes",
+        "Time management strategies for all modules",
+        "Confidence-building exercises for the exam",
+        "Tips & tricks to maximize your PTE score"
+      ],
+      "certificate": "PTE results are issued by Pearson; MHEC prepares you for the test.",
+      "faqs": [
+        {
+          "q": "How is PTE Academic scored?",
+          "a": "PTE Academic is scored on a scale of 10–90. Each section (Speaking, Writing, Reading, Listening) receives an individual score and a total Communicative Skills score."
+        },
+        {
+          "q": "How long does it take to prepare for PTE?",
+          "a": "Most students prepare in 4 to 6 weeks. We also offer crash courses for those with tight deadlines."
+        },
+        {
+          "q": "Is PTE accepted for Australian immigration?",
+          "a": "Yes, PTE Academic is widely accepted by Australian immigration, UK universities, and many institutions worldwide."
+        }
+      ]
+    },
+    {
+      "slug": "celpip",
+      "title": "CELPIP",
+      "category": "Exam Preparation",
+      "kind": "Exam preparation",
+      "level": "All levels",
+      "summary": "Preparation for the CELPIP English test with practice for listening, reading, writing and speaking.",
+      "duration": "4–6 weeks",
+      "audience": [
+        "Individuals applying for Canadian PR & Citizenship",
+        "Students & professionals planning to study or work in Canada",
+        "Anyone aiming to improve English proficiency",
+        "Test-takers looking for structured exam preparation",
+        "Candidates needing high CELPIP scores for immigration"
+      ],
+      "outcomes": [],
+      "modules": [
+        "CELPIP test format & scoring system",
+        "Strategies for Listening, Reading, Writing, and Speaking",
+        "Time management techniques for each section",
+        "How to structure high-scoring writing responses",
+        "Techniques to improve fluency & pronunciation",
+        "Practice with real exam-style speaking prompts",
+        "Effective strategies for understanding complex texts",
+        "Tips for avoiding common mistakes & improving scores"
+      ],
+      "certificate": "CELPIP results are issued by the test provider; MHEC prepares you for the test.",
+      "faqs": [
+        {
+          "q": "What is CELPIP used for?",
+          "a": "CELPIP is primarily used for Canadian Permanent Residency (PR) and Citizenship applications. It is accepted by Immigration, Refugees and Citizenship Canada (IRCC)."
+        },
+        {
+          "q": "What score do I need for Canadian PR?",
+          "a": "For Canadian PR under Express Entry, you typically need CLB 7 (equivalent to CELPIP 7 in each skill) or higher depending on the program."
+        },
+        {
+          "q": "How long is the CELPIP preparation course?",
+          "a": "Most students complete preparation in 4 to 6 weeks, though we offer flexible durations based on your needs."
+        },
+        {
+          "q": "How is CELPIP different from IELTS?",
+          "a": "CELPIP is a fully computer-based test conducted in one sitting (about 3 hours). It tests Canadian English, while IELTS tests general academic English."
+        }
+      ]
+    },
+    {
+      "slug": "sat",
+      "title": "SAT",
+      "category": "Exam Preparation",
+      "kind": "Exam preparation",
+      "level": "Intermediate",
+      "summary": "Structured SAT preparation for reading, writing and maths, with timed practice tests.",
+      "duration": "6–8 weeks",
+      "audience": [
+        "High school students preparing for the SAT",
+        "Students aiming for top universities",
+        "Those looking to improve their SAT scores",
+        "Students who struggle with standardized test formats"
+      ],
+      "outcomes": [],
+      "modules": [
+        "Critical Reading strategies to improve comprehension",
+        "Advanced Grammar & Writing techniques",
+        "Effective problem-solving skills for SAT Math",
+        "Time management techniques for each section",
+        "How to eliminate wrong answer choices quickly",
+        "Essay writing skills for the optional SAT Essay",
+        "Practice with real SAT questions & past papers",
+        "Stress management techniques for exam day"
+      ],
+      "certificate": "SAT scores are issued by College Board; MHEC prepares you for the test.",
+      "faqs": [
+        {
+          "q": "What is a good SAT score?",
+          "a": "The SAT is scored out of 1600 (800 per section). A score of 1200+ is generally considered competitive. Top universities typically look for 1400+."
+        },
+        {
+          "q": "How long is the SAT preparation course?",
+          "a": "The SAT preparation course runs for 6 to 8 weeks with regular practice tests and personalized feedback sessions."
+        },
+        {
+          "q": "What does the SAT test include?",
+          "a": "The SAT tests Reading & Writing (one combined section) and Math. There is an optional Essay section as well."
+        },
+        {
+          "q": "How many times can I take the SAT?",
+          "a": "There is no limit to how many times you can take the SAT. Most students take it 2 to 3 times to improve their score."
+        }
+      ]
+    },
+    {
+      "slug": "exam-revision",
+      "title": "Exam Revision (GCSE, CBSE, A-Levels, IB)",
+      "category": "Exam Preparation",
+      "kind": "Exam preparation",
+      "level": "All levels",
+      "summary": "Focused revision support for school board exams, with subject tutoring, past papers and exam technique.",
+      "duration": "Flexible",
+      "audience": [
+        "School students across all curricula",
+        "Parents seeking quality tutoring for their children",
+        "Students appearing for board exams",
+        "Students needing additional academic support"
+      ],
+      "outcomes": [],
+      "modules": [
+        "Academic Support — American Curricula (all classes)",
+        "Academic Support — GCSE / IGCSE",
+        "Academic Support — AS / A Level",
+        "Academic Support — CBSE (all classes)",
+        "Academic Support — ICSE / ISC",
+        "Academic Support — IB Curricula",
+        "Entrance Exams — SAT, IELTS, TOEFL, MCAT"
+      ],
+      "certificate": "Grades are awarded by your exam board; MHEC supports your revision.",
+      "faqs": [
+        {
+          "q": "Which curricula do you cover in exam revision?",
+          "a": "We cover American Curricula, GCSE/IGCSE, AS/A Level, CBSE, ICSE/ISC, IB, and entrance exams like SAT, IELTS, TOEFL, and MCAT."
+        },
+        {
+          "q": "How are exam revision sessions structured?",
+          "a": "Sessions are personalized to each student's needs, with topic-specific revision, mock tests, and detailed feedback to track progress."
+        }
+      ]
+    },
+    {
+      "slug": "spoken-english",
+      "title": "Spoken English",
+      "category": "Languages & Communication",
+      "kind": "Skill programme",
+      "level": "All levels",
+      "summary": "Speak English fluently and confidently for daily life and work, from a level assessment to business communication.",
+      "duration": "2 months",
+      "audience": [
+        "Students preparing for university",
+        "Professionals aiming for career growth",
+        "Job seekers wanting to improve communication",
+        "Homemakers and beginners starting from scratch",
+        "Anyone who wants to speak English confidently"
+      ],
+      "outcomes": [],
+      "modules": [
+        "Everyday speaking skills for real-life situations",
+        "Vocabulary & Grammar for practical use",
+        "Pronunciation & Accent Improvement",
+        "Professional Communication",
+        "Business English",
+        "Interview & Presentation Skills"
+      ],
+      "certificate": "MHEC certificate of completion.",
+      "faqs": [
+        {
+          "q": "Is this course suitable for complete beginners?",
+          "a": "Yes, we offer beginner to advanced levels. Complete beginners are welcome and will be placed in the appropriate batch."
+        },
+        {
+          "q": "How quickly can I improve my spoken English?",
+          "a": "With consistent practice in our interactive sessions, most students show noticeable improvement within 4–6 weeks."
+        }
+      ]
+    },
+    {
+      "slug": "business-communication",
+      "title": "Business Communication",
+      "category": "Languages & Communication",
+      "kind": "Skill programme",
+      "level": "Intermediate",
+      "summary": "Communicate clearly at work: professional emails, meetings, presentations and workplace conversations.",
+      "duration": "1 month",
+      "audience": [
+        "Business Professionals",
+        "Managers & Team Leaders",
+        "Students & Graduates",
+        "Anyone wanting to improve workplace communication"
+      ],
+      "outcomes": [],
+      "modules": [
+        "Effective verbal and written communication in the workplace",
+        "Professional email and report writing",
+        "Presentation and public speaking techniques",
+        "Active listening and interpersonal skills",
+        "Cross-cultural communication in diverse workplaces",
+        "Digital communication: video calls, instant messaging etiquette"
+      ],
+      "certificate": "MHEC certificate of completion.",
+      "faqs": [
+        {
+          "q": "How is Business Communication different from Spoken English?",
+          "a": "Business Communication focuses specifically on workplace scenarios: meetings, presentations, professional writing, and corporate etiquette. Spoken English is broader and covers everyday conversational fluency."
+        }
+      ]
+    },
+    {
+      "slug": "effective-email-writing",
+      "title": "Effective Email Writing",
+      "category": "Languages & Communication",
+      "kind": "Skill programme",
+      "level": "All levels",
+      "summary": "Write clear, professional and well-structured emails that get results.",
+      "duration": "2 weeks",
+      "audience": [
+        "Business Professionals",
+        "Students",
+        "Administrative Staff",
+        "Anyone communicating professionally via email"
+      ],
+      "outcomes": [],
+      "modules": [
+        "Professional email structure: subject lines, opening, body, closing",
+        "Tone and formality levels for different recipients",
+        "Writing clear and concise messages",
+        "Common email mistakes and how to avoid them",
+        "Email etiquette in professional settings",
+        "Writing for different purposes: requests, follow-ups, complaints"
+      ],
+      "certificate": "MHEC certificate of completion.",
+      "faqs": [
+        {
+          "q": "Who is this course most useful for?",
+          "a": "This course is valuable for anyone who writes professional emails regularly — especially administrative staff, executives, customer service teams, and sales professionals."
+        }
+      ]
+    },
+    {
+      "slug": "spoken-arabic",
+      "title": "Spoken Arabic",
+      "category": "Languages & Communication",
+      "kind": "Skill programme",
+      "level": "Beginner",
+      "summary": "Learn to speak Arabic for everyday and workplace conversations, from beginner to advanced levels.",
+      "duration": "2 months",
+      "audience": [
+        "Business professionals",
+        "Students",
+        "Anyone wanting to connect with Arabic culture"
+      ],
+      "outcomes": [],
+      "modules": [
+        "Initial Learning — Foundational Arabic language skills",
+        "Practical Engagement — Real-life scenarios & conversations (ordering food, daily activities)",
+        "Confidence Building — Practice and support",
+        "Advanced Conversation — Workplace and social settings",
+        "Final Presentation — 1–2 minute speech in Arabic"
+      ],
+      "certificate": "MHEC certificate of completion.",
+      "faqs": [
+        {
+          "q": "Do I need any prior Arabic knowledge to join?",
+          "a": "No prior knowledge required. The course starts from absolute basics and is designed for complete beginners."
+        }
+      ]
+    },
+    {
+      "slug": "kids-programme",
+      "title": "Kids Programme (Coding, AI, Robotics & Personality Development)",
+      "category": "Kids Programme",
+      "kind": "Skill programme",
+      "level": "Beginner",
+      "summary": "Online modules for ages 8–17 in coding, AI, robotics, public speaking and personality development.",
+      "duration": "16–30 hours per module",
+      "audience": [
+        "Children aged 6–17 years",
+        "Parents seeking STEM education for their children",
+        "School students wanting coding skills",
+        "Beginners with curiosity and interest in technology",
+        "Children interested in public speaking and personality development"
+      ],
+      "outcomes": [
+        "Scratch Programming: motion, event, sound blocks, creating sprites, interactive stories, game development",
+        "Python Basics: variables, data types, control structures, functions, file handling",
+        "Python Advanced: OOP, sorting algorithms, data visualization",
+        "Python for AI: intro to AI & machine learning, neural networks, supervised & unsupervised learning",
+        "AI for Kids: how AI is used in everyday life, ChatGPT & AI content creation, AI applications in various industries",
+        "Public Speaking & Oratory Skills: overcoming stage fear, speech structuring, storytelling",
+        "Personality Development: confidence building, leadership, emotional intelligence, personal grooming",
+        "Robotics: building and programming LEGO robots"
+      ],
+      "modules": [
+        "Scratch Basics (15 Hours): Introduction to Scratch, motion/event/sound blocks, sprites, interactive stories, quiz games",
+        "Scratch Advanced (15 Hours): Advanced game development, variables, lists, operators, multi-level games",
+        "Python Basics (16 Hours): Intro to Python & IDE setup, variables, control structures, functions, basic file handling",
+        "Python Advanced (16 Hours): Lists, dictionaries, OOP, sorting algorithms, data visualization",
+        "Python for AI (30 Hours): Intro to AI & ML, neural networks basics, Matplotlib, supervised & unsupervised learning",
+        "AI for Kids (16 Hours): AI in everyday life, ChatGPT, AI in healthcare/finance/entertainment, AI content creation",
+        "Public Speaking (16 Hours): Overcoming stage fear, speech structure, voice modulation, storytelling, debates",
+        "Personality Development (16 Hours): Confidence, leadership, communication, grooming, emotional intelligence"
+      ],
+      "certificate": "MHEC certificate of completion.",
+      "faqs": [
+        {
+          "q": "What age groups are the kids courses designed for?",
+          "a": "Scratch Programming is for ages 6–15. Python, AI, Public Speaking, Personality Development, and Robotics are for ages 8–17."
+        },
+        {
+          "q": "Does my child need any prior knowledge?",
+          "a": "No prior experience is required. All our kids' courses start from absolute basics and use age-appropriate teaching methods."
+        }
+      ]
+    },
+    {
+      "slug": "public-speaking",
+      "title": "Public Speaking",
+      "category": "Soft Skills & Leadership",
+      "kind": "Skill programme",
+      "level": "All levels",
+      "summary": "Structure talks, overcome nerves and speak with confidence to any audience.",
+      "duration": "24 hours",
+      "audience": [
+        "Professionals who need to present or speak in public settings",
+        "Students and graduates wanting to enhance speaking skills for presentations",
+        "Entrepreneurs and leaders improving presentation skills for pitching ideas",
+        "Anyone who wants to build confidence speaking to small or large groups",
+        "Individuals preparing for special events such as weddings or public engagements"
+      ],
+      "outcomes": [
+        "Understand the key elements of effective public speaking: structure, delivery, audience engagement",
+        "Develop strategies for overcoming stage fright and speaking with confidence",
+        "Learn techniques for organizing and delivering clear, concise, and compelling speeches",
+        "Improve ability to connect with different types of audiences",
+        "Gain practical experience through speech delivery with personalized feedback",
+        "Master techniques for managing nervousness and handling difficult speaking situations"
+      ],
+      "modules": [
+        "Introduction to Public Speaking: fundamentals, audience analysis, purpose-driven communication",
+        "Overcoming Nervousness: breathing exercises and mental preparation strategies",
+        "Speech Structure and Organization: engaging introduction, body, and conclusion",
+        "Voice Control and Vocal Techniques: pitch, pace, volume, and clarity",
+        "Body Language and Non-Verbal Communication: posture, gestures, eye contact",
+        "Engaging the Audience: maintaining engagement, handling questions and interruptions",
+        "Effective Use of Visual Aids: slides, props, and best practices",
+        "Storytelling and Persuasion: making speeches relatable and influential",
+        "Practical Speech Delivery: informative, persuasive, or ceremonial formats",
+        "Dealing with Difficult Speaking Situations: tough questions, interruptions, unfamiliar settings"
+      ],
+      "certificate": "MHEC certificate of completion.",
+      "faqs": [
+        {
+          "q": "Who is this public speaking course designed for?",
+          "a": "This course is designed for professionals, students, entrepreneurs, and anyone who wants to improve their confidence and effectiveness when speaking in public."
+        },
+        {
+          "q": "How long is the course?",
+          "a": "The Public Speaking Skills course is 24 hours in total, delivered in flexible weekday or weekend batches."
+        },
+        {
+          "q": "Will I practice speaking during the course?",
+          "a": "Yes, the course involves extensive hands-on practice. You will deliver multiple speeches and receive personalized feedback from experienced instructors."
+        }
+      ]
+    },
+    {
+      "slug": "report-writing",
+      "title": "Report Writing",
+      "category": "Soft Skills & Leadership",
+      "kind": "Skill programme",
+      "level": "All levels",
+      "summary": "Write clear, well-organised business reports that present information and recommendations effectively.",
+      "duration": "24 hours",
+      "audience": [
+        "Professionals across various industries who write reports as part of their job",
+        "Managers, team leaders, and executives preparing reports for stakeholders",
+        "Business analysts, consultants, and project managers",
+        "Students or graduates pursuing careers where effective writing is key",
+        "Anyone who wants to produce clearer, more effective professional reports"
+      ],
+      "outcomes": [
+        "Understand the purpose and types of reports commonly used in business",
+        "Learn how to structure a report with appropriate sections",
+        "Develop skills in writing concise summaries, recommendations, and conclusions",
+        "Gain techniques for writing in a formal, professional tone",
+        "Learn how to analyze and present data effectively: tables, charts, graphs",
+        "Master grammar, punctuation, and formatting for polished reports",
+        "Understand how to revise and proofread reports for clarity and accuracy"
+      ],
+      "modules": [
+        "Introduction to Report Writing: types and purposes",
+        "Structuring a Report: executive summary, introduction, findings, conclusions",
+        "Writing the Main Body of the Report",
+        "Writing Conclusions and Recommendations",
+        "Refining Your Writing Style: clarity, conciseness, and tone",
+        "Visual Aids and Data Presentation: tables, charts, graphs",
+        "Adapting Reports for Different Audiences",
+        "Finalizing and Submitting Reports",
+        "Practical Exercises and Feedback"
+      ],
+      "certificate": "MHEC certificate of completion.",
+      "faqs": [
+        {
+          "q": "What types of reports will I learn to write?",
+          "a": "You will learn to write business reports, research reports, project status reports, incident reports, and analytical reports."
+        },
+        {
+          "q": "Is this course suitable for non-native English speakers?",
+          "a": "Yes, the course is designed to be accessible to non-native English speakers. We focus on clear, structured writing rather than advanced literary language."
+        }
+      ]
+    },
+    {
+      "slug": "negotiation-skills",
+      "title": "Negotiation Skills",
+      "category": "Soft Skills & Leadership",
+      "kind": "Skill programme",
+      "level": "Intermediate",
+      "summary": "Prepare, plan and conduct negotiations that reach win-win agreements.",
+      "duration": "24 hours",
+      "audience": [
+        "Business professionals, managers, and executives involved in negotiations",
+        "Sales and procurement professionals looking to improve negotiation outcomes",
+        "Entrepreneurs and startup founders who need to negotiate funding, partnerships, or contracts",
+        "HR professionals handling salary negotiations, conflict resolution, or employee agreements",
+        "Project managers and team leaders negotiating scope, timelines, and resources",
+        "Individuals looking to develop general negotiation skills for personal or professional situations"
+      ],
+      "outcomes": [
+        "Understand the principles and stages of negotiation: preparation, bargaining, and closing",
+        "Develop effective communication and listening skills to build rapport and trust",
+        "Learn how to identify and leverage power dynamics in a negotiation",
+        "Gain techniques for managing conflict, dealing with difficult negotiators, finding win-win solutions",
+        "Learn strategies for creating value and maximizing outcomes while maintaining positive relationships",
+        "Master the art of persuasion: presenting arguments compellingly and influencing decisions",
+        "Understand cultural differences and their impact on negotiation styles",
+        "Develop practical skills for closing deals and securing agreements efficiently"
+      ],
+      "modules": [
+        "Introduction to Negotiation: principles, stages, and importance",
+        "Preparation for Negotiation: research, goals, and strategy",
+        "Communication Skills for Negotiation: active listening and rapport building",
+        "Bargaining Techniques: value creation and distributive vs. integrative negotiation",
+        "Conflict Resolution and Dealing with Difficult Negotiators",
+        "Closing the Deal: securing agreements and commitments",
+        "Negotiation Practice and Feedback: role-playing scenarios"
+      ],
+      "certificate": "MHEC certificate of completion.",
+      "faqs": [
+        {
+          "q": "Who should take the Negotiation Skills course?",
+          "a": "This course is ideal for sales professionals, managers, procurement teams, entrepreneurs, and anyone who regularly negotiates with clients, suppliers, or stakeholders."
+        },
+        {
+          "q": "How long is the Negotiation Skills course?",
+          "a": "The course is 24 hours, delivered in flexible batches to suit working professionals."
+        },
+        {
+          "q": "Will there be practical negotiation exercises?",
+          "a": "Yes, the course includes role-playing scenarios, case studies, and interactive discussions to simulate real negotiation situations."
+        }
+      ]
+    },
+    {
+      "slug": "interview-skills",
+      "title": "Interview Skills",
+      "category": "Soft Skills & Leadership",
+      "kind": "Skill programme",
+      "level": "All levels",
+      "summary": "Prepare for interviews, answer questions with confidence and make a strong impression.",
+      "duration": "12 hours",
+      "audience": [
+        "Job seekers looking to enhance their interview skills",
+        "Recent graduates entering the job market",
+        "Professionals aiming to transition to new roles or industries",
+        "Hiring managers and HR personnel seeking to improve interviewing techniques",
+        "Anyone interested in building confidence for public speaking or interviews"
+      ],
+      "outcomes": [
+        "Understand the different types of interviews and their formats",
+        "Develop strategies for effective interview preparation and research",
+        "Learn how to articulate skills and experiences confidently",
+        "Master techniques for answering common interview questions",
+        "Recognize the importance of non-verbal communication and body language",
+        "Gain skills in evaluating candidates for those in an interviewing role"
+      ],
+      "modules": [
+        "Introduction to Interview Skills: Importance and Overview",
+        "Types of Interviews: Structured, Unstructured, Behavioral",
+        "Preparing for an Interview: Research and Self-Assessment",
+        "Crafting Your Personal Brand and Elevator Pitch",
+        "Common Interview Questions and Effective Responses",
+        "Body Language and Non-Verbal Communication",
+        "Handling Difficult Questions and Situational Scenarios",
+        "Following Up After the Interview: Thank-You Notes and Feedback",
+        "Interviewing as an Employer: Best Practices",
+        "Mock Interviews and Constructive Feedback Sessions"
+      ],
+      "certificate": "MHEC certificate of completion.",
+      "faqs": [
+        {
+          "q": "Will we do mock interviews in this course?",
+          "a": "Yes, mock interviews with constructive feedback are a core component of this course. You'll practice answering common and difficult interview questions."
+        }
+      ]
+    },
+    {
+      "slug": "time-management",
+      "title": "Time Management",
+      "category": "Soft Skills & Leadership",
+      "kind": "Skill programme",
+      "level": "All levels",
+      "summary": "Prioritise, plan and manage your time to get more done with less stress.",
+      "duration": "12 hours",
+      "audience": [
+        "Professionals looking to enhance their productivity and efficiency",
+        "Students seeking to balance academic responsibilities and personal life",
+        "Managers and team leaders who want to improve team performance",
+        "Anyone interested in developing better time management habits"
+      ],
+      "outcomes": [
+        "Understand the principles and importance of effective time management",
+        "Identify personal time management challenges and develop tailored solutions",
+        "Learn how to prioritize tasks using various methods (Eisenhower Matrix, ABCD Method)",
+        "Set realistic SMART goals and create actionable plans to achieve them",
+        "Utilize tools and techniques for planning and scheduling",
+        "Minimize distractions and improve focus to enhance productivity"
+      ],
+      "modules": [
+        "Introduction to Time Management: Importance and Benefits",
+        "Identifying Time Wasters and Personal Productivity Challenges",
+        "Goal Setting: SMART Goals and Action Plans",
+        "Prioritization Techniques: The Eisenhower Matrix and ABCD Method",
+        "Planning and Scheduling: Daily, Weekly, and Monthly Strategies",
+        "Tools and Technologies for Effective Time Management",
+        "Strategies for Overcoming Procrastination and Staying Motivated",
+        "Managing Interruptions and Distractions",
+        "Work-Life Balance: Techniques for Personal Well-Being",
+        "Reviewing and Adjusting Time Management Strategies"
+      ],
+      "certificate": "MHEC certificate of completion.",
+      "faqs": [
+        {
+          "q": "Is time management something that can really be taught?",
+          "a": "Yes! Time management is a set of learnable skills and habits. Our course provides proven frameworks and practical exercises that participants can immediately apply."
+        },
+        {
+          "q": "How long is the Time Management course?",
+          "a": "The course is 12 hours, delivered in flexible sessions to fit around your work schedule."
+        }
+      ]
+    },
+    {
+      "slug": "problem-solving",
+      "title": "Problem Solving & Decision Making",
+      "category": "Soft Skills & Leadership",
+      "kind": "Skill programme",
+      "level": "Intermediate",
+      "summary": "Use structured tools to analyse problems, generate options and make sound decisions.",
+      "duration": "24 hours",
+      "audience": [
+        "Managers, team leaders, and executives",
+        "Project managers handling challenges and risks",
+        "Business analysts, consultants, and decision-makers",
+        "Entrepreneurs and startup founders",
+        "Professionals wanting to improve critical thinking"
+      ],
+      "outcomes": [
+        "Understand the key principles and stages of problem-solving and decision-making",
+        "Learn how to identify and define problems clearly and assess root causes",
+        "Evaluate alternatives and make decisions based on sound criteria and risk analysis",
+        "Apply structured problem-solving techniques: root cause analysis, brainstorming",
+        "Develop critical thinking skills to overcome cognitive biases",
+        "Improve decision-making using SWOT analysis, decision trees, and cost-benefit analysis"
+      ],
+      "modules": [
+        "Introduction to Problem Solving and Decision Making",
+        "Defining and Identifying Problems",
+        "Creative Problem Solving Techniques",
+        "Evaluating Alternatives and Making Decisions",
+        "Overcoming Cognitive Biases in Decision Making",
+        "Group Decision Making and Collaboration",
+        "Implementing Solutions and Monitoring Outcomes",
+        "Decision Making Under Uncertainty and Pressure",
+        "Personal and Organizational Decision-Making Frameworks"
+      ],
+      "certificate": "MHEC certificate of completion.",
+      "faqs": [
+        {
+          "q": "What problem-solving frameworks are covered?",
+          "a": "The course covers root cause analysis, the 5 Whys, brainstorming techniques, SWOT analysis, decision trees, and cost-benefit analysis."
+        }
+      ]
+    },
+    {
+      "slug": "emotional-intelligence",
+      "title": "Emotional Intelligence",
+      "category": "Soft Skills & Leadership",
+      "kind": "Skill programme",
+      "level": "All levels",
+      "summary": "Develop self-awareness, empathy and relationship skills that improve how you work with others.",
+      "duration": "1 month",
+      "audience": [
+        "Managers & Leaders",
+        "HR Professionals",
+        "Working Professionals",
+        "Anyone wanting to improve interpersonal skills",
+        "Individuals seeking personal development"
+      ],
+      "outcomes": [],
+      "modules": [
+        "Understanding emotional intelligence and its five components",
+        "Self-awareness: recognizing your own emotions and triggers",
+        "Self-regulation: managing emotions in professional settings",
+        "Empathy: understanding and responding to others' emotions",
+        "Social skills: building and maintaining professional relationships",
+        "Applying EI for leadership and team management"
+      ],
+      "certificate": "MHEC certificate of completion.",
+      "faqs": [
+        {
+          "q": "Is Emotional Intelligence something that can be learned?",
+          "a": "Yes, research shows that EI can be developed and improved with training and practice. Unlike IQ, emotional intelligence can grow throughout your life."
+        },
+        {
+          "q": "Why is EI important in the workplace?",
+          "a": "High EI is linked to better teamwork, leadership effectiveness, conflict resolution, and overall job performance. Many employers now value EI as much as technical skills."
+        }
+      ]
+    },
+    {
+      "slug": "customer-service",
+      "title": "Customer Service Management",
+      "category": "Soft Skills & Leadership",
+      "kind": "Skill programme",
+      "level": "All levels",
+      "summary": "Deliver excellent customer service, handle complaints and build lasting customer relationships.",
+      "duration": "24 hours",
+      "audience": [
+        "Customer service professionals looking to enhance their skills",
+        "Managers and team leaders responsible for customer service operations",
+        "Sales and marketing personnel who interact with customers",
+        "Entrepreneurs and business owners aiming to improve customer engagement",
+        "Students and graduates interested in customer service careers"
+      ],
+      "outcomes": [
+        "Understand the fundamentals of customer service management",
+        "Develop effective communication and interpersonal skills for customer interactions",
+        "Analyze customer needs and expectations to tailor service offerings",
+        "Manage customer complaints and resolve conflicts effectively",
+        "Lead and motivate customer service teams to achieve excellence"
+      ],
+      "modules": [
+        "Introduction to Customer Service Management",
+        "Understanding Customer Needs and Expectations",
+        "Effective Communication and Active Listening Skills",
+        "Service Quality: Standards and Best Practices",
+        "CRM Tools and Techniques",
+        "Handling Complaints and Conflict Resolution",
+        "Creating a Customer-Centric Culture",
+        "Performance Metrics and Service Improvement Strategies",
+        "Training and Developing Customer Service Teams"
+      ],
+      "certificate": "MHEC certificate of completion.",
+      "faqs": [
+        {
+          "q": "What industries is this course relevant for?",
+          "a": "This course is relevant for retail, hospitality, banking, healthcare, telecommunications, and any industry where customer interaction is important."
+        }
+      ]
+    },
+    {
+      "slug": "effective-business-management",
+      "title": "Effective Business Management",
+      "category": "Management",
+      "kind": "Skill programme",
+      "level": "Intermediate",
+      "summary": "Core management skills: planning, organising, leading teams and controlling performance.",
+      "duration": "24 hours",
+      "audience": [
+        "Managers, team leaders, and supervisors looking to refine management skills",
+        "Entrepreneurs and business owners wanting to improve operational efficiency",
+        "Executives and senior leaders responsible for strategic decision-making",
+        "HR professionals involved in workforce management and development",
+        "Project managers seeking to improve business management skills"
+      ],
+      "outcomes": [
+        "Understand the core principles and functions of business management",
+        "Develop strategic thinking skills for effective business planning",
+        "Enhance leadership and communication skills for managing teams",
+        "Understand the importance of organizational behavior in driving success",
+        "Gain proficiency in performance management: goal-setting, monitoring, and evaluation",
+        "Learn fundamentals of financial management, budgeting, and resource allocation"
+      ],
+      "modules": [
+        "Introduction to Effective Business Management",
+        "Strategic Business Planning",
+        "Leadership and Motivation",
+        "Organizational Behavior and Culture",
+        "Communication and Interpersonal Skills",
+        "Performance Management and Accountability",
+        "Financial Management for Managers",
+        "Change Management and Innovation",
+        "Decision Making and Problem Solving",
+        "Business Growth and Sustainability"
+      ],
+      "certificate": "MHEC certificate of completion.",
+      "faqs": [
+        {
+          "q": "Is this course suitable for first-time managers?",
+          "a": "Yes, this course is ideal for first-time managers, aspiring managers, and experienced professionals looking to strengthen their management foundation."
+        }
+      ]
+    },
+    {
+      "slug": "management-skill-development",
+      "title": "Management Skill Development",
+      "category": "Management",
+      "kind": "Skill programme",
+      "level": "Intermediate",
+      "summary": "Build the practical skills new and aspiring managers need to lead people and deliver results.",
+      "duration": "1 month",
+      "audience": [
+        "Aspiring managers wanting to develop leadership skills",
+        "Team leaders seeking to improve team management",
+        "Professionals wanting to advance to managerial roles",
+        "Business owners improving operational management"
+      ],
+      "outcomes": [],
+      "modules": [
+        "Leadership styles and situational leadership",
+        "Team building and motivation techniques",
+        "Strategic planning and goal setting",
+        "Conflict resolution and mediation",
+        "Delegation and accountability",
+        "Decision-making frameworks for managers"
+      ],
+      "certificate": "MHEC certificate of completion.",
+      "faqs": [
+        {
+          "q": "How is this different from the Business Management course?",
+          "a": "The Management Skill Development course focuses specifically on interpersonal and leadership skills for managers. The Business Management course takes a broader strategic view of running a business."
+        }
+      ]
+    },
+    {
+      "slug": "corporate-governance",
+      "title": "Corporate Governance",
+      "category": "Management",
+      "kind": "Skill programme",
+      "level": "Advanced",
+      "summary": "Principles and practice of good governance: boards, accountability, risk and ethics.",
+      "duration": "24 hours",
+      "audience": [
+        "Board members and executives seeking to enhance their governance knowledge",
+        "Compliance officers and legal professionals",
+        "Business leaders and managers",
+        "Investors and stakeholders interested in corporate accountability",
+        "Students and graduates pursuing careers in business, law, or finance"
+      ],
+      "outcomes": [
+        "Understand the fundamental concepts and significance of corporate governance",
+        "Analyze the roles and responsibilities of boards of directors and executive management",
+        "Examine regulatory frameworks and best practices",
+        "Assess the importance of transparency, accountability, and ethical behavior",
+        "Explore stakeholder engagement and its impact on governance",
+        "Develop strategies for implementing effective governance frameworks"
+      ],
+      "modules": [
+        "Introduction to Corporate Governance: Concepts and Importance",
+        "Governance Structures: Boards, Committees, and Management Roles",
+        "Regulatory Frameworks: Local and International Standards",
+        "Risk Management and Internal Controls",
+        "Ethical Decision-Making and Corporate Social Responsibility",
+        "Stakeholder Rights and Engagement",
+        "Transparency and Disclosure Practices",
+        "Evaluating Board Performance and Effectiveness",
+        "Trends and Challenges in Corporate Governance",
+        "Case Studies: Successful Governance Practices"
+      ],
+      "certificate": "MHEC certificate of completion.",
+      "faqs": [
+        {
+          "q": "Is corporate governance only relevant for large companies?",
+          "a": "No, corporate governance principles apply to businesses of all sizes. Good governance helps small and medium enterprises build trust, attract investment, and operate sustainably."
+        }
+      ]
+    },
+    {
+      "slug": "project-management",
+      "title": "Project Management",
+      "category": "Management",
+      "kind": "Skill programme",
+      "level": "Beginner",
+      "summary": "Essential project management: scope, scheduling, budgets, risk and reporting.",
+      "duration": "12 hours",
+      "audience": [
+        "Professionals new to project management seeking foundational skills",
+        "Team members involved in project work wanting to enhance their knowledge",
+        "Managers and supervisors responsible for overseeing projects",
+        "Entrepreneurs and business owners managing their own projects",
+        "Students and graduates interested in pursuing project management careers"
+      ],
+      "outcomes": [
+        "Understand the fundamental concepts and terminology of project management",
+        "Develop effective project plans including scope, timeline, and resource allocation",
+        "Identify and manage project risks and issues",
+        "Use project management tools to track progress and performance",
+        "Communicate effectively with stakeholders and team members",
+        "Learn strategies for successful project closure and evaluation"
+      ],
+      "modules": [
+        "Introduction to Project Management: Concepts and Importance",
+        "Project Lifecycle: Initiation, Planning, Execution, Monitoring, and Closure",
+        "Defining Project Scope and Objectives",
+        "Time Management: Creating Timelines and Schedules",
+        "Resource Management: Allocating People and Budgets",
+        "Risk Management: Identification and Mitigation Strategies",
+        "Communication Planning and Stakeholder Engagement",
+        "Monitoring and Controlling Project Performance",
+        "Best Practices for Project Closure and Lessons Learned"
+      ],
+      "certificate": "MHEC certificate of completion.",
+      "faqs": [
+        {
+          "q": "Does this course prepare me for PMP certification?",
+          "a": "This course provides a solid foundation in project management principles. For full PMP certification preparation, we recommend our longer project management program."
+        },
+        {
+          "q": "What project management tools are covered?",
+          "a": "The course covers Microsoft Project, Gantt charts, and fundamental project management frameworks like PMBOK."
+        }
+      ]
+    },
+    {
+      "slug": "human-resource-management",
+      "title": "Human Resource Management",
+      "category": "Management",
+      "kind": "Skill programme",
+      "level": "Intermediate",
+      "summary": "Recruit, develop, manage and retain people with core HR practices.",
+      "duration": "24 hours",
+      "audience": [
+        "HR professionals looking to enhance their skills and knowledge",
+        "Managers and team leaders responsible for employee management",
+        "Business owners and entrepreneurs seeking to build effective teams",
+        "Students and graduates pursuing careers in human resource management",
+        "Anyone interested in understanding the role of HR in organizational success"
+      ],
+      "outcomes": [
+        "Understand the core principles and practices of human resource management",
+        "Develop effective recruitment and selection strategies",
+        "Implement employee training and development programs",
+        "Evaluate performance management systems and their impact",
+        "Navigate employment laws and ethical considerations in HR",
+        "Foster positive employee relations and engagement strategies"
+      ],
+      "modules": [
+        "Introduction to Human Resource Management",
+        "Talent Acquisition and Recruitment Strategies",
+        "Onboarding and Orientation Processes",
+        "Employee Training and Development",
+        "Performance Management Systems",
+        "Compensation and Benefits Management",
+        "Employee Engagement and Motivation",
+        "Diversity and Inclusion in the Workplace",
+        "Emerging Trends in Human Resource Management"
+      ],
+      "certificate": "MHEC certificate of completion.",
+      "faqs": [
+        {
+          "q": "Is this course suitable for non-HR professionals?",
+          "a": "Yes, managers, team leaders, and business owners who manage people will benefit greatly from this course even without formal HR backgrounds."
+        }
+      ]
+    },
+    {
+      "slug": "marketing-sales-management",
+      "title": "Marketing & Sales Management",
+      "category": "Management",
+      "kind": "Skill programme",
+      "level": "Intermediate",
+      "summary": "Plan marketing strategy, manage sales teams and grow revenue.",
+      "duration": "24 hours",
+      "audience": [
+        "Marketing and sales professionals looking to enhance their skills",
+        "Managers and team leaders for sales & marketing",
+        "Business owners and entrepreneurs developing marketing strategies",
+        "Students and graduates pursuing careers in marketing or sales",
+        "Anyone interested in the integration of marketing and sales functions"
+      ],
+      "outcomes": [
+        "Understand the fundamental concepts of marketing and sales management",
+        "Develop effective marketing strategies aligned with business objectives",
+        "Analyze market trends and consumer behavior to inform decision-making",
+        "Create and implement sales strategies to drive revenue growth",
+        "Build and maintain strong customer relationships",
+        "Utilize digital marketing tools and techniques to enhance reach"
+      ],
+      "modules": [
+        "Introduction to Marketing and Sales Management",
+        "Market Research: Techniques and Tools",
+        "Understanding Consumer Behavior and Market Segmentation",
+        "Developing Marketing Strategies and Plans",
+        "Sales Planning and Forecasting",
+        "Building a Sales Team: Recruitment and Training",
+        "Relationship Marketing and Customer Engagement",
+        "Digital Marketing Strategies: SEO, Social Media, and Content Marketing",
+        "Sales Techniques and Negotiation Skills",
+        "Performance Metrics and Marketing ROI"
+      ],
+      "certificate": "MHEC certificate of completion.",
+      "faqs": [
+        {
+          "q": "Does this course cover digital marketing as well?",
+          "a": "Yes, digital marketing strategies including SEO, social media, and content marketing are included as part of the modern marketing mix covered in this course."
+        }
+      ]
+    },
+    {
+      "slug": "supply-chain-management",
+      "title": "Supply Chain Management",
+      "category": "Management",
+      "kind": "Skill programme",
+      "level": "Intermediate",
+      "summary": "Plan and optimise sourcing, inventory, operations and distribution across the supply chain.",
+      "duration": "24 hours",
+      "audience": [
+        "Supply chain professionals seeking to enhance their knowledge and skills",
+        "Managers and executives involved in logistics, procurement, or operations",
+        "Business analysts and consultants applying SCM principles",
+        "Students and graduates pursuing supply chain management careers",
+        "Anyone interested in how effective supply chain practices impact organizational success"
+      ],
+      "outcomes": [
+        "Understand the fundamental concepts and components of supply chain management",
+        "Analyze the role of supply chain strategies in achieving business objectives",
+        "Identify and mitigate supply chain risks",
+        "Apply best practices in logistics and inventory management",
+        "Utilize data analysis techniques to enhance supply chain efficiency",
+        "Develop skills to implement sustainable supply chain initiatives"
+      ],
+      "modules": [
+        "Introduction to Supply Chain Management",
+        "Supply Chain Strategy and Design",
+        "Procurement and Supplier Management",
+        "Production Planning and Control",
+        "Inventory Management Techniques",
+        "Transportation and Logistics Management",
+        "Demand Forecasting and Planning",
+        "Supply Chain Risk Management",
+        "Sustainable Supply Chain Practices",
+        "Technology and Innovations in SCM"
+      ],
+      "certificate": "MHEC certificate of completion.",
+      "faqs": []
+    },
+    {
+      "slug": "logistics-supply-chain",
+      "title": "Logistics and Supply Chain Management",
+      "category": "Management",
+      "kind": "Skill programme",
+      "level": "Intermediate",
+      "summary": "A deeper programme on logistics operations, warehousing, transport and supply chain strategy.",
+      "duration": "2 months",
+      "audience": [
+        "Logistics and supply chain professionals seeking career advancement",
+        "Business owners and entrepreneurs managing supply chain operations",
+        "Fresh graduates interested in logistics, procurement, or transportation careers",
+        "Professionals in e-commerce, retail, manufacturing, and FMCG industries",
+        "Operations and warehouse managers looking to optimize efficiency"
+      ],
+      "outcomes": [
+        "Gain expertise in end-to-end supply chain management",
+        "Improve logistics efficiency and cost-saving strategies",
+        "Develop skills in demand forecasting and inventory optimization",
+        "Learn global best practices for procurement and supplier management",
+        "Understand digital transformation in logistics and supply chain operations",
+        "Enhance career opportunities in logistics, transportation, and distribution"
+      ],
+      "modules": [
+        "Fundamentals of supply chain and logistics management",
+        "Procurement and supplier relationship management",
+        "Inventory control techniques and warehouse management",
+        "Transportation management and logistics network design",
+        "Role of technology, AI, and automation in modern supply chains",
+        "Risk management, sustainability, and ethical supply chain practices"
+      ],
+      "certificate": "MHEC certificate of completion.",
+      "faqs": []
+    },
+    {
+      "slug": "bim-coordinator",
+      "title": "Certified BIM Coordinator",
+      "category": "BIM & CAD",
+      "kind": "Skill programme",
+      "level": "Advanced",
+      "summary": "Coordinate multi-discipline BIM models, clash detection and information management on construction projects.",
+      "duration": "3 months",
+      "audience": [
+        "Architects, Engineers, and Designers",
+        "Project Managers and Coordinators",
+        "Contractors and Construction Managers",
+        "BIM Managers and Technicians",
+        "Anyone looking to upskill in BIM technology"
+      ],
+      "outcomes": [],
+      "modules": [
+        "Fundamentals of BIM & its applications",
+        "Role and responsibilities of a BIM Coordinator",
+        "Understanding BIM Execution Plans (BEP)",
+        "Managing and collaborating with multi-disciplinary teams",
+        "Common Data Environments (CDE) and information sharing",
+        "Clash detection and model coordination techniques",
+        "Implementation of BIM standards and protocols",
+        "Hands-on training with leading BIM software"
+      ],
+      "certificate": "MHEC certificate of completion.",
+      "faqs": [
+        {
+          "q": "What are the prerequisites for the BIM Coordinator program?",
+          "a": "Basic knowledge of architecture or engineering is helpful, but no prior BIM experience is required. We start from fundamentals."
+        },
+        {
+          "q": "What software will I learn?",
+          "a": "You will learn Autodesk Revit, Navisworks, AutoCAD, and other relevant BIM coordination tools."
+        }
+      ]
+    },
+    {
+      "slug": "bim-architect",
+      "title": "BIM Architect / Modeler",
+      "category": "BIM & CAD",
+      "kind": "Skill programme",
+      "level": "Intermediate",
+      "summary": "Model architectural projects in BIM with Revit, from design to documentation.",
+      "duration": "3 months",
+      "audience": [
+        "Architecture graduates or students aiming to boost their digital design skills",
+        "Civil engineers who want to transition into the BIM environment",
+        "Draughtsmen and CAD operators ready to upgrade to Revit and BIM tools",
+        "Construction professionals involved in design coordination and project planning",
+        "Interior designers seeking to integrate BIM into their workflow",
+        "Anyone interested in international opportunities in the AEC industry"
+      ],
+      "outcomes": [],
+      "modules": [
+        "Introduction to BIM & its applications",
+        "Hands-on training with Autodesk Revit & Navisworks",
+        "3D modeling, visualization, and rendering techniques",
+        "Clash detection & coordination",
+        "Quantity take-offs & cost estimation",
+        "Project collaboration & cloud-based workflows",
+        "Advanced parametric modeling & automation",
+        "Industry best practices & case studies"
+      ],
+      "certificate": "MHEC certificate of completion.",
+      "faqs": [
+        {
+          "q": "What are the prerequisites for this BIM Architect course?",
+          "a": "Basic knowledge of architecture or engineering is helpful, but no prior BIM experience is required."
+        },
+        {
+          "q": "What software will I learn?",
+          "a": "You will learn Autodesk Revit, Navisworks, AutoCAD, and other relevant BIM tools."
+        }
+      ]
+    },
+    {
+      "slug": "bim-mep-engineer",
+      "title": "BIM MEP Engineer / Modeler",
+      "category": "BIM & CAD",
+      "kind": "Skill programme",
+      "level": "Intermediate",
+      "summary": "Model mechanical, electrical and plumbing systems in BIM and coordinate them with other disciplines.",
+      "duration": "3 months",
+      "audience": [
+        "MEP & Mechanical Engineers",
+        "Electrical & Plumbing Engineers",
+        "BIM coordinators in the M&E sector",
+        "Construction managers overseeing MEP systems",
+        "Students & graduates in engineering"
+      ],
+      "outcomes": [],
+      "modules": [
+        "Introduction to BIM & MEP Engineering",
+        "Autodesk Revit MEP & Navisworks",
+        "Mechanical, Electrical & Plumbing (MEP) system design",
+        "Clash detection & coordination for MEP",
+        "HVAC, fire protection & piping system modeling",
+        "Energy analysis & sustainability in MEP design",
+        "Quantity take-offs & cost estimation for MEP systems",
+        "Industry best practices & case studies"
+      ],
+      "certificate": "MHEC certificate of completion.",
+      "faqs": [
+        {
+          "q": "Do I need prior MEP knowledge to join this course?",
+          "a": "Basic engineering knowledge is recommended. Prior MEP experience is helpful but not mandatory."
+        },
+        {
+          "q": "What software will I use in this course?",
+          "a": "Autodesk Revit MEP, Navisworks, and AutoCAD are the primary tools used in this course."
+        }
+      ]
+    },
+    {
+      "slug": "structural-bim-engineer",
+      "title": "Structural BIM Engineer / Modeler",
+      "category": "BIM & CAD",
+      "kind": "Skill programme",
+      "level": "Intermediate",
+      "summary": "Build structural BIM models, detailing and documentation for construction projects.",
+      "duration": "3 months",
+      "audience": [
+        "Civil & Structural Engineers",
+        "Architects & Designers involved in structural projects",
+        "BIM & CAD Technicians",
+        "Construction Professionals & Contractors",
+        "Students & Graduates in Civil Engineering & Architecture",
+        "Project Managers in Structural Engineering"
+      ],
+      "outcomes": [],
+      "modules": [
+        "Introduction to Structural BIM & its applications",
+        "Hands-on training with Revit Structure, Tekla, & Navisworks",
+        "Structural modeling, analysis, and reinforcement detailing",
+        "Clash detection & coordination in multidisciplinary projects",
+        "Quantity take-offs & cost estimation for structures",
+        "Structural load calculations & design integration",
+        "Project collaboration & cloud-based workflows",
+        "Industry best practices & case studies"
+      ],
+      "certificate": "MHEC certificate of completion.",
+      "faqs": [
+        {
+          "q": "What software is covered in the Structural BIM course?",
+          "a": "You will learn Autodesk Revit Structure, Tekla Structures, and Navisworks for structural modeling, analysis, and coordination."
+        },
+        {
+          "q": "Is prior structural engineering knowledge required?",
+          "a": "Basic civil or structural engineering background is recommended for best results."
+        }
+      ]
+    },
+    {
+      "slug": "revit-architecture",
+      "title": "Revit Architecture",
+      "category": "BIM & CAD",
+      "kind": "Skill programme",
+      "level": "Beginner",
+      "summary": "Learn Autodesk Revit for architectural modelling, drawings and project documentation.",
+      "duration": "2 months",
+      "audience": [
+        "Architects and Architectural Designers",
+        "CAD Technicians transitioning to BIM",
+        "Civil and Structural Engineers",
+        "Interior Designers",
+        "Construction Professionals"
+      ],
+      "outcomes": [],
+      "modules": [
+        "Revit interface, navigation and project setup",
+        "Modeling walls, floors, roofs, doors, and windows",
+        "Creating and editing families and components",
+        "Floor plans, sections, elevations, and 3D views",
+        "Annotations, dimensions, and construction documentation",
+        "Schedules and material take-offs",
+        "Rendering and visualization in Revit",
+        "Worksharing, linked models and team collaboration"
+      ],
+      "certificate": "MHEC certificate of completion.",
+      "faqs": [
+        {
+          "q": "Do I need prior CAD experience?",
+          "a": "Basic knowledge of architectural drawings is helpful but not mandatory. We cover everything from scratch."
+        },
+        {
+          "q": "What version of Revit will I learn?",
+          "a": "We train on the latest version of Autodesk Revit available at the time of the course."
+        }
+      ]
+    },
+    {
+      "slug": "autocad",
+      "title": "Master AutoCAD",
+      "category": "BIM & CAD",
+      "kind": "Skill programme",
+      "level": "Beginner",
+      "summary": "2D drafting, 3D modelling and professional drawing production in AutoCAD.",
+      "duration": "2 months",
+      "audience": [
+        "Civil & Structural Engineers",
+        "Architects & Interior Designers",
+        "Draftsmen & CAD Technicians",
+        "Students & Recent Graduates in Engineering & Architecture",
+        "Project Managers looking to enhance drafting skills",
+        "Anyone interested in mastering AutoCAD"
+      ],
+      "outcomes": [],
+      "modules": [
+        "Fundamentals of AutoCAD for drafting & modeling",
+        "2D drawing techniques for precision & accuracy",
+        "Advanced 3D modeling & visualization",
+        "Structural detailing & documentation",
+        "BIM integration & collaborative workflows",
+        "Creating parametric designs & dynamic blocks",
+        "Working with layers, templates & styles",
+        "Industry best practices & case studies"
+      ],
+      "certificate": "MHEC certificate of completion.",
+      "faqs": [
+        {
+          "q": "Do I need prior CAD experience for this course?",
+          "a": "No, the course starts from the basics and progresses to advanced AutoCAD techniques. Beginners are welcome."
+        },
+        {
+          "q": "What version of AutoCAD will be used?",
+          "a": "We use the latest AutoCAD version. You will also learn how to work with older file versions for compatibility."
+        }
+      ]
+    },
+    {
+      "slug": "autodesk-fusion-360",
+      "title": "Autodesk Fusion 360",
+      "category": "BIM & CAD",
+      "kind": "Skill programme",
+      "level": "Beginner",
+      "summary": "3D design, simulation and manufacturing workflows in Autodesk Fusion 360.",
+      "duration": "2 months",
+      "audience": [
+        "Mechanical Engineers & Designers",
+        "Product Designers & Innovators",
+        "CNC Machinists & Manufacturers",
+        "Industrial Designers & Prototypers",
+        "Engineering Students & Recent Graduates"
+      ],
+      "outcomes": [],
+      "modules": [
+        "Introduction to Autodesk Fusion 360 & its applications",
+        "Parametric & freeform 3D modeling techniques",
+        "Assembly design & motion simulation",
+        "Finite Element Analysis (FEA) for design validation",
+        "CAM for CNC machining & manufacturing",
+        "Rendering & visualization for presentation",
+        "Cloud-based collaboration & version control",
+        "Industry best practices & workflow optimization"
+      ],
+      "certificate": "MHEC certificate of completion.",
+      "faqs": [
+        {
+          "q": "What is Autodesk Fusion 360 used for?",
+          "a": "Fusion 360 is used for 3D design, engineering simulation, and CNC manufacturing. It is popular in product design, mechanical engineering, and prototype development."
+        },
+        {
+          "q": "Is Fusion 360 better than AutoCAD?",
+          "a": "They serve different purposes. AutoCAD is primarily for 2D drafting, while Fusion 360 combines CAD, CAM, and simulation in one platform, making it more powerful for product design and manufacturing."
+        }
+      ]
+    },
+    {
+      "slug": "interior-design-3d-visualization",
+      "title": "Interior Design & 3D Visualization",
+      "category": "BIM & CAD",
+      "kind": "Skill programme",
+      "level": "Beginner",
+      "summary": "Design interiors and present them with photorealistic 3D visualisation.",
+      "duration": "3 months",
+      "audience": [
+        "Aspiring Interior Designers",
+        "Architects & Civil Engineers",
+        "3D Artists & Visualizers",
+        "Real Estate & Property Developers",
+        "Homeowners & Design Enthusiasts",
+        "Students & Fresh Graduates in Design & Architecture"
+      ],
+      "outcomes": [],
+      "modules": [
+        "Fundamentals of interior design & space planning",
+        "3D modeling with Autodesk 3ds Max & SketchUp",
+        "Lighting, materials, and texture applications",
+        "High-quality rendering with V-Ray & Lumion",
+        "Color theory & furniture layout techniques",
+        "Advanced visualization & animation",
+        "Real-world project execution & presentation skills",
+        "Industry-standard workflows & best practices"
+      ],
+      "certificate": "MHEC certificate of completion.",
+      "faqs": [
+        {
+          "q": "What software will I learn in this course?",
+          "a": "You will learn Autodesk 3ds Max, SketchUp, V-Ray, and Lumion — the industry-standard tools for interior design and visualization."
+        },
+        {
+          "q": "Do I need design experience to enroll?",
+          "a": "No prior experience is required. The course starts from fundamentals and progresses to advanced techniques."
+        }
+      ]
+    },
+    {
+      "slug": "interior-exterior-design",
+      "title": "Interior & Exterior Design",
+      "category": "BIM & CAD",
+      "kind": "Skill programme",
+      "level": "Beginner",
+      "summary": "Create interior and exterior design concepts, layouts and 3D presentations.",
+      "duration": "3 months",
+      "audience": [
+        "Aspiring Interior & Exterior Designers",
+        "Architects & Civil Engineers",
+        "3D Artists & Visualizers",
+        "Real Estate & Property Developers",
+        "Landscape Designers",
+        "Students & Fresh Graduates in Design & Architecture"
+      ],
+      "outcomes": [],
+      "modules": [
+        "Fundamentals of interior & exterior design",
+        "3D modeling with Autodesk 3ds Max & SketchUp",
+        "Lighting techniques for both indoor & outdoor spaces",
+        "High-quality rendering with V-Ray & Lumion",
+        "Color theory, landscaping & material selection",
+        "Advanced visualization & walkthrough animation",
+        "Real-world project execution & client presentations"
+      ],
+      "certificate": "MHEC certificate of completion.",
+      "faqs": [
+        {
+          "q": "What is the difference between Interior Design and Interior & Exterior Design courses?",
+          "a": "The Interior & Exterior Design course additionally covers outdoor space planning, landscaping, and exterior visualization, giving you a more comprehensive skill set."
+        }
+      ]
+    },
+    {
+      "slug": "primavera-p6",
+      "title": "Primavera P6",
+      "category": "BIM & CAD",
+      "kind": "Skill programme",
+      "level": "Intermediate",
+      "summary": "Plan, schedule and control projects in Oracle Primavera P6.",
+      "duration": "2 months",
+      "audience": [
+        "Project Managers & Engineers",
+        "Construction & Civil Engineers",
+        "Planners & Schedulers",
+        "IT & Infrastructure Professionals",
+        "Oil & Gas Industry Professionals",
+        "Anyone involved in project management & planning"
+      ],
+      "outcomes": [],
+      "modules": [
+        "Introduction to Primavera P6 & project management fundamentals",
+        "Creating & managing project schedules",
+        "Work Breakdown Structure (WBS) & activity sequencing",
+        "Resource management & cost control techniques",
+        "Risk analysis & mitigation strategies",
+        "Progress tracking & performance measurement",
+        "Cloud-based collaboration & version control",
+        "Critical Path Method (CPM) & Earned Value Management (EVM)"
+      ],
+      "certificate": "MHEC certificate of completion.",
+      "faqs": [
+        {
+          "q": "What is the difference between Primavera P6 and MS Project?",
+          "a": "Primavera P6 is designed for large, complex projects with thousands of activities, while MS Project is more suitable for smaller projects. P6 is the industry standard for construction and engineering."
+        }
+      ]
+    },
+    {
+      "slug": "othm-level-3-diploma-business-management",
+      "title": "OTHM Level 3 Diploma in Business Management",
+      "qualificationNumber": "603/7795/1",
+      "credits": "120 credits",
+      "tqt": "1,200 hours TQT, 480 guided learning hours",
+      "level": "Beginner",
+      "summary": "A UK Level 3 business qualification that builds foundations in communication, people management, customer service, finance and marketing.",
+      "entry": [
+        "Minimum age 16",
+        "Capability to undertake the course, confirmed at enrolment",
+        "Evidence of English language competency if you are not from a majority English-speaking country"
+      ],
+      "modules": [
+        "Communication for Business",
+        "The Business Environment",
+        "People Management",
+        "Customer Service",
+        "Finance in Business",
+        "Marketing"
+      ],
+      "progression": [
+        "OTHM Level 4 Diploma in Business Management",
+        "Many universities may consider holders for direct entry to bachelor's degrees"
+      ],
+      "category": "UK Diplomas (OTHM)",
+      "kind": "UK diploma",
+      "duration": "120 credits",
+      "audience": [],
+      "outcomes": [],
+      "certificate": "Awarded by OTHM, a UK awarding organisation regulated by Ofqual. MHEC supports your study online.",
+      "faqs": []
+    },
+    {
+      "slug": "othm-level-4-diploma-business-management",
+      "title": "OTHM Level 4 Diploma in Business Management",
+      "qualificationNumber": "610/0763/8",
+      "credits": "120 credits",
+      "tqt": "1,200 hours TQT, 600 guided learning hours",
+      "level": "Intermediate",
+      "summary": "Equivalent to the first year of a UK bachelor's degree, covering operations, communication, finance, leadership and global business.",
+      "entry": [
+        "Typically aged 18 or over",
+        "A relevant Level 3 diploma, two A-levels or equivalent, or management experience for mature learners over 21",
+        "Evidence of English language competency if you are not from a majority English-speaking country"
+      ],
+      "modules": [
+        "Academic Writing and Research Skills",
+        "Business Operations",
+        "Communication in Business",
+        "Finance and Accounting",
+        "Leading and Managing Teams",
+        "Operating in a Global Context"
+      ],
+      "progression": [
+        "OTHM Level 5 Extended Diploma in Business Management",
+        "Direct entry into Year 2 of a three-year UK bachelor's degree"
+      ],
+      "category": "UK Diplomas (OTHM)",
+      "kind": "UK diploma",
+      "duration": "120 credits",
+      "audience": [],
+      "outcomes": [],
+      "certificate": "Awarded by OTHM, a UK awarding organisation regulated by Ofqual. MHEC supports your study online.",
+      "faqs": []
+    },
+    {
+      "slug": "othm-level-5-extended-diploma-business-management",
+      "title": "OTHM Level 5 Extended Diploma in Business Management",
+      "qualificationNumber": "610/0335/9",
+      "credits": "240 credits (120 at Level 4 + 120 at Level 5)",
+      "tqt": "2,400 hours TQT, 1,200 guided learning hours",
+      "level": "Intermediate",
+      "summary": "Equivalent to the first two years of a UK bachelor's degree, leading to a final-year top-up to complete your degree.",
+      "entry": [
+        "Typically aged 18 or over",
+        "A relevant Level 3 diploma, two A-levels or equivalent, or management experience for mature learners over 21",
+        "Evidence of English language competency if you are not from a majority English-speaking country"
+      ],
+      "modules": [
+        "Academic Writing and Research Skills",
+        "Business Operations",
+        "Communication in Business",
+        "Finance and Accounting",
+        "Leading and Managing Teams",
+        "Operating in a Global Context",
+        "Principles and Concepts of Strategy",
+        "The Management of Human Resources",
+        "Marketing for Managers",
+        "Business Law for Managers",
+        "Management Accounting for Decision Making",
+        "Business Start-up: Conception to Market"
+      ],
+      "progression": [
+        "OTHM Level 6 Diploma in Business Management",
+        "Direct entry into Year 3 (final-year top-up) of a three-year UK bachelor's degree"
+      ],
+      "category": "UK Diplomas (OTHM)",
+      "kind": "UK diploma",
+      "duration": "240 credits",
+      "audience": [],
+      "outcomes": [],
+      "certificate": "Awarded by OTHM, a UK awarding organisation regulated by Ofqual. MHEC supports your study online.",
+      "faqs": []
+    },
+    {
+      "slug": "othm-level-5-diploma-information-technology",
+      "title": "OTHM Level 5 Diploma in Information Technology",
+      "qualificationNumber": "603/3614/6",
+      "credits": "120 credits",
+      "tqt": "1,200 hours TQT, 480 guided learning hours",
+      "level": "Intermediate",
+      "summary": "A UK Level 5 IT qualification in software engineering, databases, systems analysis, networks and IT project management.",
+      "entry": [
+        "A relevant Level 4 diploma or equivalent",
+        "Aged 18 or over",
+        "Evidence of English language competency if you are not from a majority English-speaking country"
+      ],
+      "modules": [
+        "Software Engineering",
+        "Database Systems",
+        "Advanced Systems Analysis and Design",
+        "Management Information Systems",
+        "Network Information Systems",
+        "IT Project Management"
+      ],
+      "progression": [
+        "OTHM Level 6 Diploma in Information Technology",
+        "Direct entry into the final year of a three-year UK bachelor's degree"
+      ],
+      "category": "UK Diplomas (OTHM)",
+      "kind": "UK diploma",
+      "duration": "120 credits",
+      "audience": [],
+      "outcomes": [],
+      "certificate": "Awarded by OTHM, a UK awarding organisation regulated by Ofqual. MHEC supports your study online.",
+      "faqs": []
+    },
+    {
+      "slug": "othm-level-7-diploma-strategic-management-leadership",
+      "title": "OTHM Level 7 Diploma in Strategic Management and Leadership",
+      "qualificationNumber": "603/2181/7",
+      "credits": "120 credits",
+      "tqt": "1,200 hours TQT, 600 guided learning hours",
+      "level": "Advanced",
+      "summary": "A master's-level qualification for managers that leads to an MBA top-up with advanced standing at partner UK universities.",
+      "entry": [
+        "An honours degree, a UK Level 6 diploma or equivalent, or management experience for mature learners",
+        "Aged 21 or over",
+        "Evidence of English language competency if you are not from a majority English-speaking country"
+      ],
+      "modules": [
+        "Strategic Management",
+        "Strategic Leadership",
+        "Strategic Human Resource Management",
+        "Advanced Business Research Methods",
+        "Two optional units from: Strategic Financial Management, Supply Chain and Operations Management, Entrepreneurship and Innovation, Globalisation and Corporate Governance, Strategic Change Management, Strategic Marketing"
+      ],
+      "progression": [
+        "MBA top-up with advanced standing (a further 60-credit dissertation stage with a university)",
+        "Career progression into senior management roles"
+      ],
+      "category": "UK Diplomas (OTHM)",
+      "kind": "UK diploma",
+      "duration": "120 credits",
+      "audience": [],
+      "outcomes": [],
+      "certificate": "Awarded by OTHM, a UK awarding organisation regulated by Ofqual. MHEC supports your study online.",
+      "faqs": []
+    }
+  ]
+}
