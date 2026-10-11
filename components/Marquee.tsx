@@ -6,7 +6,7 @@ const popular = ["acca", "cma", "excel-with-ai", "generative-ai", "power-bi", "d
 /** A slow-moving ribbon of programme names. Pauses on hover; static for reduced motion. */
 export default function Marquee() {
   const items = [
-    ...pathways.map((p) => ({ label: p.title, href: `/pathway-programs/${p.slug}` })),
+    ...pathways.filter((p) => p.slug !== "othm-diplomas").map((p) => ({ label: p.title, href: `/pathway-programs/${p.slug}` })),
     ...popular.map((slug) => courses.find((c) => c.slug === slug)).filter(Boolean).map((c) => ({ label: c!.title, href: `/online-programs/${c!.slug}` })),
   ];
   const row = (hidden: boolean) => (
